@@ -2,7 +2,7 @@
   "book": "iman",
   "bab_number": 35,
   "bab_title": "٣٥ - باب اتِّبَاعُ الْجَنَائِزِ مِنْ الْإِيمَانِ",
-  "hadith_numbers": [],
-  "verified": false,
+  "hadith_numbers": [40],
+  "verified": true,
   "commentary_file": "bab-35.txt"
 }

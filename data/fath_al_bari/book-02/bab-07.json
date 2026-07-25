@@ -2,7 +2,7 @@
   "book": "iman",
   "bab_number": 7,
   "bab_title": "٧ - باب مِنْ الْإِيمَانِ أَنْ يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ",
-  "hadith_numbers": [],
-  "verified": false,
+  "hadith_numbers": [6],
+  "verified": true,
   "commentary_file": "bab-07.txt"
 }

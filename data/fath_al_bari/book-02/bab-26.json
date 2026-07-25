@@ -2,7 +2,7 @@
   "book": "iman",
   "bab_number": 26,
   "bab_title": "٢٦ - باب الْجِهَادُ مِنْ الْإِيمَانِ",
-  "hadith_numbers": [],
-  "verified": false,
+  "hadith_numbers": [29],
+  "verified": true,
   "commentary_file": "bab-26.txt"
 }

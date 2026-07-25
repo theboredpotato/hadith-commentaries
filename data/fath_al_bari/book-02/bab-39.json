@@ -2,7 +2,7 @@
   "book": "iman",
   "bab_number": 39,
   "bab_title": "٣٩ - باب فَضْلِ مَنْ اسْتَبْرَأَ لِدِينِهِ",
-  "hadith_numbers": [],
-  "verified": false,
+  "hadith_numbers": [45],
+  "verified": true,
   "commentary_file": "bab-39.txt"
 }

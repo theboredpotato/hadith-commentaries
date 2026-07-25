@@ -2,7 +2,7 @@
   "book": "iman",
   "bab_number": 29,
   "bab_title": "٢٩ - باب الدِّينُ يُسْرٌ، وَقَوْلُ النَّبِيِّ ﷺ: أَحَبُّ الدِّينِ إِلَى اللَّهِ الْحَنِيفِيَّةُ السَّمْحَةُ.",
-  "hadith_numbers": [],
-  "verified": false,
+  "hadith_numbers": [32],
+  "verified": true,
   "commentary_file": "bab-29.txt"
 }

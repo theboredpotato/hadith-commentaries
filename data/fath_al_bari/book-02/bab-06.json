@@ -2,7 +2,7 @@
   "book": "iman",
   "bab_number": 6,
   "bab_title": "٦ - باب إِطْعَامُ الطَّعَامِ مِنْ الْإِسْلَامِ",
-  "hadith_numbers": [],
-  "verified": false,
+  "hadith_numbers": [5],
+  "verified": true,
   "commentary_file": "bab-06.txt"
 }

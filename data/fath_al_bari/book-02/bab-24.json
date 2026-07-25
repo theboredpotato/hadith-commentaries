@@ -2,7 +2,7 @@
   "book": "iman",
   "bab_number": 24,
   "bab_title": "٢٤ - باب عَلَامَةِ الْمُنَافِقِ",
-  "hadith_numbers": [],
-  "verified": false,
+  "hadith_numbers": [26,27],
+  "verified": true,
   "commentary_file": "bab-24.txt"
 }

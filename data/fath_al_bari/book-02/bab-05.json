@@ -2,7 +2,7 @@
   "book": "iman",
   "bab_number": 5,
   "bab_title": "٥ - باب أَيُّ الْإِسْلَامِ أَفْضَلُ",
-  "hadith_numbers": [],
-  "verified": false,
+  "hadith_numbers": [4],
+  "verified": true,
   "commentary_file": "bab-05.txt"
 }

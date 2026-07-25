@@ -2,7 +2,7 @@
   "book": "iman",
   "bab_number": 28,
   "bab_title": "٢٨ - باب صَوْمُ رَمَضَانَ احْتِسَابًا مِنْ الْإِيمَانِ",
-  "hadith_numbers": [],
-  "verified": false,
+  "hadith_numbers": [31],
+  "verified": true,
   "commentary_file": "bab-28.txt"
 }

@@ -2,7 +2,7 @@
   "book": "iman",
   "bab_number": 25,
   "bab_title": "٢٥ - باب قِيَامُ لَيْلَةِ الْقَدْرِ مِنْ الْإِيمَانِ",
-  "hadith_numbers": [],
-  "verified": false,
+  "hadith_numbers": [28],
+  "verified": true,
   "commentary_file": "bab-25.txt"
 }

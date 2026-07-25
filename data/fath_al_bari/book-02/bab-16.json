@@ -2,7 +2,7 @@
   "book": "iman",
   "bab_number": 16,
   "bab_title": "١٦ - باب الْحَيَاءُ مِنْ الْإِيمَانِ",
-  "hadith_numbers": [],
-  "verified": false,
+  "hadith_numbers": [17],
+  "verified": true,
   "commentary_file": "bab-16.txt"
 }

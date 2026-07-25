@@ -2,7 +2,7 @@
   "book": "iman",
   "bab_number": 3,
   "bab_title": "٣ - باب أُمُورِ الْإِيمَانِ",
-  "hadith_numbers": [],
-  "verified": false,
+  "hadith_numbers": [2],
+  "verified": true,
   "commentary_file": "bab-03.txt"
 }

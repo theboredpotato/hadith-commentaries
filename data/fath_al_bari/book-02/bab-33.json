@@ -2,7 +2,7 @@
   "book": "iman",
   "bab_number": 33,
   "bab_title": "٣٣ - باب زِيَادَةِ الْإِيمَانِ وَنُقْصَانِهِ",
-  "hadith_numbers": [],
-  "verified": false,
+  "hadith_numbers": [37,38],
+  "verified": true,
   "commentary_file": "bab-33.txt"
 }

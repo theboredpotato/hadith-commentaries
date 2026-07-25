@@ -2,7 +2,7 @@
   "book": "iman",
   "bab_number": 27,
   "bab_title": "٢٧ - باب تَطَوُّعُ قِيَامِ رَمَضَانَ مِنْ الْإِيمَانِ",
-  "hadith_numbers": [],
-  "verified": false,
+  "hadith_numbers": [30],
+  "verified": true,
   "commentary_file": "bab-27.txt"
 }
