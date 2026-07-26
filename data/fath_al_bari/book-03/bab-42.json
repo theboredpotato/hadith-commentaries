@@ -1,0 +1,12 @@
+{
+  "book": "ilm",
+  "bab_number": 42,
+  "bab_title": "٤٢ - باب حفظ العلم",
+  "hadith_numbers": [
+    118,
+    119,
+    120
+  ],
+  "verified": true,
+  "commentary_file": "bab-42.txt"
+}
