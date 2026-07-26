@@ -1,8 +1,10 @@
 {
   "book": "iman",
   "bab_number": 25,
-  "bab_title": "٢٥ - باب قِيَامُ لَيْلَةِ الْقَدْرِ مِنْ الْإِيمَانِ",
-  "hadith_numbers": [28],
+  "bab_title": "٢٥ - باب قيام ليلة القدر من الإيمان",
+  "hadith_numbers": [
+    35
+  ],
   "verified": true,
   "commentary_file": "bab-25.txt"
 }

@@ -2,7 +2,9 @@
   "book": "iman",
   "bab_number": 11,
   "bab_title": "١١ - باب بايعوني أن لا تشركوا بالله شيئا",
-  "hadith_numbers": [11],
+  "hadith_numbers": [
+    18
+  ],
   "verified": true,
   "commentary_file": "bab-11.txt"
 }

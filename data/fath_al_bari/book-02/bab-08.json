@@ -1,8 +1,11 @@
 {
   "book": "iman",
   "bab_number": 8,
-  "bab_title": "٨ - باب حُبُّ الرَّسُولِ ﷺ مِنْ الْإِيمَانِ",
-  "hadith_numbers": [7,8],
+  "bab_title": "٨ - باب حب الرسول ﷺ من الإيمان",
+  "hadith_numbers": [
+    14,
+    15
+  ],
   "verified": true,
   "commentary_file": "bab-08.txt"
 }

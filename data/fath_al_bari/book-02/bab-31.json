@@ -1,8 +1,11 @@
 {
   "book": "iman",
   "bab_number": 31,
-  "bab_title": "٣١ - باب حُسْنُ إِسْلَامِ الْمَرْءِ",
-  "hadith_numbers": [34,35],
+  "bab_title": "٣١ - باب حسن إسلام المرء",
+  "hadith_numbers": [
+    41,
+    42
+  ],
   "verified": true,
   "commentary_file": "bab-31.txt"
 }

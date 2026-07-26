@@ -1,8 +1,10 @@
 {
   "book": "iman",
   "bab_number": 39,
-  "bab_title": "٣٩ - باب فَضْلِ مَنْ اسْتَبْرَأَ لِدِينِهِ",
-  "hadith_numbers": [45],
+  "bab_title": "٣٩ - باب فضل من استبرأ لدينه",
+  "hadith_numbers": [
+    52
+  ],
   "verified": true,
   "commentary_file": "bab-39.txt"
 }

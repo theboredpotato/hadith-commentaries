@@ -2,7 +2,9 @@
   "book": "iman",
   "bab_number": 38,
   "bab_title": "٣٨ - باب",
-  "hadith_numbers": [44],
+  "hadith_numbers": [
+    51
+  ],
   "verified": true,
   "commentary_file": "bab-38.txt"
 }

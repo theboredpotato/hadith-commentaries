@@ -1,8 +1,11 @@
 {
   "book": "iman",
   "bab_number": 15,
-  "bab_title": "١٥ - باب تَفَاضُلِ أَهْلِ الْإِيمَانِ فِي الْأَعْمَالِ",
-  "hadith_numbers": [15,16],
+  "bab_title": "١٥ - باب تفاضل أهل الإيمان في الأعمال",
+  "hadith_numbers": [
+    22,
+    23
+  ],
   "verified": true,
   "commentary_file": "bab-15.txt"
 }

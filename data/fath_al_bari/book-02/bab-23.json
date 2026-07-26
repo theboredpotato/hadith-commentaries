@@ -1,8 +1,10 @@
 {
   "book": "iman",
   "bab_number": 23,
-  "bab_title": "٢٣ - باب ظُلْمٌ دُونَ ظُلْمٍ",
-  "hadith_numbers": [25],
+  "bab_title": "٢٣ - باب ظلم دون ظلم",
+  "hadith_numbers": [
+    32
+  ],
   "verified": true,
   "commentary_file": "bab-23.txt"
 }

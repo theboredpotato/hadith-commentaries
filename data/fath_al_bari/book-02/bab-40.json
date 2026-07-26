@@ -1,8 +1,10 @@
 {
   "book": "iman",
   "bab_number": 40,
-  "bab_title": "٤٠ - باب أَدَاءُ الْخُمُسِ مِنْ الْإِيمَانِ",
-  "hadith_numbers": [46],
+  "bab_title": "٤٠ - باب أداء الخمس من الإيمان",
+  "hadith_numbers": [
+    53
+  ],
   "verified": true,
   "commentary_file": "bab-40.txt"
 }

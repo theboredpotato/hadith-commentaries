@@ -1,8 +1,10 @@
 {
   "book": "iman",
   "bab_number": 32,
-  "bab_title": "٣٢ - باب أَحَبُّ الدِّينِ إِلَى اللَّهِ ﷿ أَدْوَمُهُ",
-  "hadith_numbers": [36],
+  "bab_title": "٣٢ - باب أحب الدين إلى الله ﷿ أدومه",
+  "hadith_numbers": [
+    43
+  ],
   "verified": true,
   "commentary_file": "bab-32.txt"
 }

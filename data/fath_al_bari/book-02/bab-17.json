@@ -1,8 +1,10 @@
 {
   "book": "iman",
   "bab_number": 17,
-  "bab_title": "١٧ - باب ﴿فَإِنْ تَابُوا وَأَقَامُوا الصَّلاةَ وَآتَوُا الزَّكَاةَ فَخَلُّوا سَبِيلَهُمْ﴾",
-  "hadith_numbers": [18],
+  "bab_title": "١٧ - باب ﴿فإن تابوا وأقاموا الصلاة وآتوا الزكاة فخلوا سبيلهم﴾",
+  "hadith_numbers": [
+    25
+  ],
   "verified": true,
   "commentary_file": "bab-17.txt"
 }
