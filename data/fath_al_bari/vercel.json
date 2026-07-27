@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/commentary/[hadithNumber].js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/commentary/(.*)",
+      "dest": "/api/commentary/[hadithNumber].js"
+    }
+  ]
+}
