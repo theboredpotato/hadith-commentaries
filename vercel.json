@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/commentary/[hadithNumber].js": {
+      "includeFiles": "data/**"
+    }
+  }
+}

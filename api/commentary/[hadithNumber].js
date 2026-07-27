@@ -1,15 +1,13 @@
-const express = require('express');
 const fs = require('fs/promises');
 const path = require('path');
 
-const app = express();
-
-app.get('/api/commentary/:hadithNumber', async (req, res) => {
+module.exports = async (req, res) => {
   try {
-    const hadithNumber = req.params.hadithNumber;
+    const hadithNumber = req.query.hadithNumber;
     const targetNumber = Number(hadithNumber);
     
-    const bukhariRoot = path.join(__dirname, 'data', 'fath_al_bari');
+    // Navigate up from /api/commentary/ to the root, then into data
+    const bukhariRoot = path.join(__dirname, '..', '..', 'data', 'fath_al_bari');
     const bookDirs = await fs.readdir(bukhariRoot, { withFileTypes: true });
     
     for (const dirent of bookDirs) {
@@ -43,9 +41,6 @@ app.get('/api/commentary/:hadithNumber', async (req, res) => {
     return res.status(404).json({ error: 'Commentary not found for this hadith.' });
   } catch (error) {
     console.error('Error:', error.message);
-    return res.status(500).json({ error: 'Internal server error.' });
+    return res.status(500).json({ error: 'Internal server error.', details: error.message });
   }
-});
-
-// Vercel requires this exact export line
-module.exports = app;
+};
