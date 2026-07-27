@@ -1,5 +1,4 @@
 {
-  "version": 2,
   "functions": {
     "api/commentary/[hadithNumber].js": {
       "includeFiles": "data/**"

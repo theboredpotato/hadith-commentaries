@@ -1,5 +1,5 @@
 {
-  "dependencies": {
-    "express": "^5.2.1"
-  }
+  "name": "hadith-commentaries",
+  "version": "1.0.0",
+  "dependencies": {}
 }
