@@ -1,5 +1,8 @@
 {
   "name": "hadith-commentaries",
   "version": "1.0.0",
-  "dependencies": {}
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
