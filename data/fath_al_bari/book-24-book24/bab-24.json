@@ -2,7 +2,9 @@
   "book": "book24",
   "bab_number": 24,
   "bab_title": "٢٤ - باب من تصدق في الشرك ثم أسلم",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1436
+  ],
   "verified": false,
   "commentary_file": "bab-24.txt"
 }

@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 63,
   "bab_title": "٦٣ - باب أين يقوم من المرأة والرجل",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1332
+  ],
   "verified": false,
   "commentary_file": "bab-63.txt"
 }

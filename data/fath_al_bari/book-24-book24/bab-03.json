@@ -2,7 +2,10 @@
   "book": "book24",
   "bab_number": 3,
   "bab_title": "٣ - باب إثم مانع الزكاة، وقول الله تعالى:",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1402,
+    1403
+  ],
   "verified": false,
   "commentary_file": "bab-03.txt"
 }

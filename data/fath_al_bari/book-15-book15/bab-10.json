@@ -2,7 +2,9 @@
   "book": "book15",
   "bab_number": 10,
   "bab_title": "١٠ - باب الدعاء إذا تقطعت السبل من كثرة المطر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1017
+  ],
   "verified": false,
   "commentary_file": "bab-10.txt"
 }

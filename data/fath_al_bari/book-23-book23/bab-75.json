@@ -2,7 +2,10 @@
   "book": "book23",
   "bab_number": 75,
   "bab_title": "٧٥ - باب من يقدم في اللحد",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1347,
+    1348
+  ],
   "verified": false,
   "commentary_file": "bab-75.txt"
 }

@@ -2,7 +2,11 @@
   "book": "book18",
   "bab_number": 7,
   "bab_title": "٧ - باب صلاة التطوع على الدواب وحيث ما توجهت به",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1093,
+    1094,
+    1095
+  ],
   "verified": false,
   "commentary_file": "bab-07.txt"
 }

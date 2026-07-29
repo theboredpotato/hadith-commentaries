@@ -2,7 +2,9 @@
   "book": "book16",
   "bab_number": 15,
   "bab_title": "١٥ - باب الدعاء في الخسوف",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1060
+  ],
   "verified": false,
   "commentary_file": "bab-15.txt"
 }

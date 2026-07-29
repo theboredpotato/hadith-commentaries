@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 108,
   "bab_title": "١٠٨ - باب إشعار البدن",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1699
+  ],
   "verified": false,
   "commentary_file": "bab-108.txt"
 }

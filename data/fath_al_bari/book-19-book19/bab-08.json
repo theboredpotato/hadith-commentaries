@@ -2,7 +2,9 @@
   "book": "book19",
   "bab_number": 8,
   "bab_title": "٨ - باب من تسحر ثم قام إلى الصلاة فلم ينم حتى صلى الصبح",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1134
+  ],
   "verified": false,
   "commentary_file": "bab-08.txt"
 }

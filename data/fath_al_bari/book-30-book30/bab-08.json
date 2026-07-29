@@ -2,7 +2,9 @@
   "book": "book30",
   "bab_number": 8,
   "bab_title": "٨ - باب من لم يدع قول الزور والعمل به في الصوم",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1903
+  ],
   "verified": true,
   "commentary_file": "bab-08.txt"
 }

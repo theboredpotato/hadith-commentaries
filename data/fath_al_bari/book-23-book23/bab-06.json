@@ -2,7 +2,12 @@
   "book": "book23",
   "bab_number": 6,
   "bab_title": "٦ - باب فضل من مات له ولد فاحتسب وقول الله عز وجل: ﴿وبشر الصابرين﴾",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1248,
+    1249,
+    1250,
+    1251
+  ],
   "verified": false,
   "commentary_file": "bab-06.txt"
 }

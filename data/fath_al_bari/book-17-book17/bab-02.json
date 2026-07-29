@@ -2,7 +2,9 @@
   "book": "book17",
   "bab_number": 2,
   "bab_title": "٢ - باب سجدة تنزيل السجدة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1068
+  ],
   "verified": false,
   "commentary_file": "bab-02.txt"
 }

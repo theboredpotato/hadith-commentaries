@@ -2,7 +2,9 @@
   "book": "book26",
   "bab_number": 4,
   "bab_title": "٤ - باب عمرة في رمضان",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1782
+  ],
   "verified": true,
   "commentary_file": "bab-04.txt"
 }

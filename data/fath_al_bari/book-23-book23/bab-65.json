@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 65,
   "bab_title": "٦٥ - باب قراءة فاتحة الكتاب على الجنازة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1335
+  ],
   "verified": false,
   "commentary_file": "bab-65.txt"
 }

@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 19,
   "bab_title": "١٩ - باب من أهل ملبدا",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1540
+  ],
   "verified": false,
   "commentary_file": "bab-019.txt"
 }

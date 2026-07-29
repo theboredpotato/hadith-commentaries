@@ -2,7 +2,9 @@
   "book": "book30",
   "bab_number": 26,
   "bab_title": "٢٦ - باب الصائم إذا أكل أو شرب ناسيا",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1933
+  ],
   "verified": true,
   "commentary_file": "bab-26.txt"
 }

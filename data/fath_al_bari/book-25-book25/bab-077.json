@@ -2,7 +2,11 @@
   "book": "book25",
   "bab_number": 77,
   "bab_title": "٧٧ - باب طواف القارن",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1638,
+    1639,
+    1640
+  ],
   "verified": false,
   "commentary_file": "bab-077.txt"
 }

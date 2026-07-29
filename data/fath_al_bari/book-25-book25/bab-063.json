@@ -2,7 +2,12 @@
   "book": "book25",
   "bab_number": 63,
   "bab_title": "٦٣ - باب من طاف بالبيت إذا قدم مكة قبل أن يرجع إلى بيته ثم صلى ركعتين ثم خرج إلى الصف",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1614,
+    1615,
+    1616,
+    1617
+  ],
   "verified": false,
   "commentary_file": "bab-063.txt"
 }

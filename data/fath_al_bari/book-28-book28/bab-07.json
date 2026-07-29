@@ -2,7 +2,14 @@
   "book": "book28",
   "bab_number": 7,
   "bab_title": "٧ - باب ما يقتل المحرم من الدواب",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1826,
+    1827,
+    1828,
+    1829,
+    1830,
+    1831
+  ],
   "verified": true,
   "commentary_file": "bab-07.txt"
 }

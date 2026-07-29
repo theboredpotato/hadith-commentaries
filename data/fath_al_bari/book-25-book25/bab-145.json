@@ -2,7 +2,14 @@
   "book": "book25",
   "bab_number": 145,
   "bab_title": "١٤٥ - باب إذا حاضت المرأة بعد ما أفاضت",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1757,
+    1758,
+    1759,
+    1760,
+    1761,
+    1762
+  ],
   "verified": false,
   "commentary_file": "bab-145.txt"
 }

@@ -2,7 +2,11 @@
   "book": "book19",
   "bab_number": 7,
   "bab_title": "٧ - باب من نام عند السحر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1131,
+    1132,
+    1133
+  ],
   "verified": false,
   "commentary_file": "bab-07.txt"
 }

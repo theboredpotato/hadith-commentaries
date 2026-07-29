@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 25,
   "bab_title": "٢٥ - باب رفع الصوت بالإهلال",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1548
+  ],
   "verified": false,
   "commentary_file": "bab-025.txt"
 }

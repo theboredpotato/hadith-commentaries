@@ -2,7 +2,9 @@
   "book": "book20",
   "bab_number": 3,
   "bab_title": "٣ - باب من أتى مسجد قباء كل سبت",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1193
+  ],
   "verified": false,
   "commentary_file": "bab-03.txt"
 }

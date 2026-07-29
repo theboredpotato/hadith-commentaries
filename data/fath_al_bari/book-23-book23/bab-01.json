@@ -2,7 +2,10 @@
   "book": "book23",
   "bab_number": 1,
   "bab_title": "١ - باب في الجنائز ومن كان آخر كلامه لا إله إلا الله",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1237,
+    1238
+  ],
   "verified": false,
   "commentary_file": "bab-01.txt"
 }

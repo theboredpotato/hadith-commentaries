@@ -2,7 +2,10 @@
   "book": "book25",
   "bab_number": 116,
   "bab_title": "١١٦ - باب النحر في منحر النبي ﷺ بمنى",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1710,
+    1711
+  ],
   "verified": false,
   "commentary_file": "bab-116.txt"
 }

@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 7,
   "bab_title": "٧ - باب قول الرجل للمرأة عند القبر اصبري",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1252
+  ],
   "verified": false,
   "commentary_file": "bab-07.txt"
 }

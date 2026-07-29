@@ -2,7 +2,9 @@
   "book": "book16",
   "bab_number": 14,
   "bab_title": "١٤ - باب الذكر في الكسوف",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1059
+  ],
   "verified": false,
   "commentary_file": "bab-14.txt"
 }

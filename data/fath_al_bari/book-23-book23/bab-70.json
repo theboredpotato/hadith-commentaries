@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 70,
   "bab_title": "٧٠ - باب بناء المسجد على القبر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1341
+  ],
   "verified": false,
   "commentary_file": "bab-70.txt"
 }

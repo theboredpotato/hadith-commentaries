@@ -2,7 +2,9 @@
   "book": "book24",
   "bab_number": 78,
   "bab_title": "٧٨ - باب صدقة الفطر على الصغير والكبير",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1512
+  ],
   "verified": false,
   "commentary_file": "bab-78.txt"
 }

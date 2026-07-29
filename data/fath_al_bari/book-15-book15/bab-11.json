@@ -2,7 +2,9 @@
   "book": "book15",
   "bab_number": 11,
   "bab_title": "١١ - باب ما قيل إن النبي ﷺ لم يحول رداءه في الاستسقاء يوم الجمعة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1018
+  ],
   "verified": false,
   "commentary_file": "bab-11.txt"
 }

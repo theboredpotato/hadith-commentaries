@@ -2,7 +2,9 @@
   "book": "book27",
   "bab_number": 10,
   "bab_title": "١٠ - باب قول الله عز وجل: ﴿ولا فسوق ولا جدال في الحج﴾",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1820
+  ],
   "verified": true,
   "commentary_file": "bab-10.txt"
 }

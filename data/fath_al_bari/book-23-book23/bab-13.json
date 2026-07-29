@@ -2,7 +2,10 @@
   "book": "book23",
   "bab_number": 13,
   "bab_title": "١٣ - باب يجعل الكافور في الأخيرة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1258,
+    1259
+  ],
   "verified": false,
   "commentary_file": "bab-13.txt"
 }

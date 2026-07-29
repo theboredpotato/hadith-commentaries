@@ -2,7 +2,11 @@
   "book": "book30",
   "bab_number": 33,
   "bab_title": "٣٣ - باب الصوم في السفر والإفطار",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1941,
+    1942,
+    1943
+  ],
   "verified": true,
   "commentary_file": "bab-33.txt"
 }

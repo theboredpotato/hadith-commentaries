@@ -2,7 +2,9 @@
   "book": "book19",
   "bab_number": 1,
   "bab_title": "١ - باب التهجد بالليل، وقوله عز وجل: ﴿ومن الليل فتهجد به نافلة لك﴾",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1120
+  ],
   "verified": false,
   "commentary_file": "bab-01.txt"
 }

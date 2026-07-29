@@ -2,7 +2,10 @@
   "book": "book30",
   "bab_number": 22,
   "bab_title": "٢٢ - باب الصائم يصبح جنبا",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1925,
+    1926
+  ],
   "verified": true,
   "commentary_file": "bab-22.txt"
 }

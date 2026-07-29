@@ -2,7 +2,10 @@
   "book": "book23",
   "bab_number": 47,
   "bab_title": "٤٧ - باب متى يقعد إذا قام للجنازة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1308,
+    1309
+  ],
   "verified": false,
   "commentary_file": "bab-47.txt"
 }

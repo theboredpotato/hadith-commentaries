@@ -2,7 +2,11 @@
   "book": "book23",
   "bab_number": 92,
   "bab_title": "٩٢ - باب ما قيل في أولاد المشركين",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1383,
+    1384,
+    1385
+  ],
   "verified": false,
   "commentary_file": "bab-92.txt"
 }

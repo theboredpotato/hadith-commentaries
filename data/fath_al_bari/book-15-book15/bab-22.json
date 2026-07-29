@@ -2,7 +2,9 @@
   "book": "book15",
   "bab_number": 22,
   "bab_title": "٢٢ - باب رفع الإمام يده في الاستسقاء",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1031
+  ],
   "verified": false,
   "commentary_file": "bab-22.txt"
 }

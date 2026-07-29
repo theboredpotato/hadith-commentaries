@@ -2,7 +2,11 @@
   "book": "book25",
   "bab_number": 133,
   "bab_title": "١٣٣ - باب هل يبيت أصحاب السقاية أو غيرهم بمكة ليالي منى",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1743,
+    1744,
+    1745
+  ],
   "verified": false,
   "commentary_file": "bab-133.txt"
 }

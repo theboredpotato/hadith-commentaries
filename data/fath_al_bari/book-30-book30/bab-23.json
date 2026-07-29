@@ -2,7 +2,9 @@
   "book": "book30",
   "bab_number": 23,
   "bab_title": "٢٣ - باب المباشرة للصائم",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1927
+  ],
   "verified": true,
   "commentary_file": "bab-23.txt"
 }

@@ -2,7 +2,10 @@
   "book": "book17",
   "bab_number": 6,
   "bab_title": "٦ - باب من قرأ السجدة ولم يسجد",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1072,
+    1073
+  ],
   "verified": false,
   "commentary_file": "bab-06.txt"
 }

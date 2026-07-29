@@ -2,7 +2,9 @@
   "book": "book26",
   "bab_number": 5,
   "bab_title": "٥ - باب العمرة ليلة الحصبة وغيرها",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1783
+  ],
   "verified": true,
   "commentary_file": "bab-05.txt"
 }

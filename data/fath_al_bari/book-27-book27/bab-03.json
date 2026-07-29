@@ -2,7 +2,10 @@
   "book": "book27",
   "bab_number": 3,
   "bab_title": "٣ - باب النحر قبل الحلق في الحصر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1811,
+    1812
+  ],
   "verified": true,
   "commentary_file": "bab-03.txt"
 }

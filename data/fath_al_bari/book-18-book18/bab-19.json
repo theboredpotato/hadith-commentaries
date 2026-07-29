@@ -2,7 +2,9 @@
   "book": "book18",
   "bab_number": 19,
   "bab_title": "١٩ - باب إذا لم يطق قاعدا صلى على جنب",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1117
+  ],
   "verified": false,
   "commentary_file": "bab-19.txt"
 }

@@ -2,7 +2,10 @@
   "book": "book24",
   "bab_number": 25,
   "bab_title": "٢٥ - باب أجر الخادم إذا تصدق بأمر صاحبه غير مفسد",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1437,
+    1438
+  ],
   "verified": false,
   "commentary_file": "bab-25.txt"
 }

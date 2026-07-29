@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 149,
   "bab_title": "١٤٩ - باب من نزل بذي طوى إذا رجع من مكة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1769
+  ],
   "verified": false,
   "commentary_file": "bab-149.txt"
 }

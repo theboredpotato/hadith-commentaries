@@ -2,7 +2,10 @@
   "book": "book25",
   "bab_number": 60,
   "bab_title": "٦٠ - باب تقبيل الحجر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1610,
+    1611
+  ],
   "verified": false,
   "commentary_file": "bab-060.txt"
 }

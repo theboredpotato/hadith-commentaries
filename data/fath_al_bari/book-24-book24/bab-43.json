@@ -2,7 +2,9 @@
   "book": "book24",
   "bab_number": 43,
   "bab_title": "٤٣ - باب زكاة البقر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1460
+  ],
   "verified": false,
   "commentary_file": "bab-43.txt"
 }

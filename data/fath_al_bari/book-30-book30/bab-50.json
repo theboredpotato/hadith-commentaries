@@ -2,7 +2,9 @@
   "book": "book30",
   "bab_number": 50,
   "bab_title": "٥٠ - باب الوصال إلى السحر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1967
+  ],
   "verified": true,
   "commentary_file": "bab-50.txt"
 }

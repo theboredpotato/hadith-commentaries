@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 44,
   "bab_title": "٤٤ - باب البكاء عند المريض",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1304
+  ],
   "verified": false,
   "commentary_file": "bab-44.txt"
 }

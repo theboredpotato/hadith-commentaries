@@ -2,7 +2,9 @@
   "book": "book22",
   "bab_number": 8,
   "bab_title": "٨ - باب إذا كلم وهو يصلي فأشار بيده واستمع",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1233
+  ],
   "verified": false,
   "commentary_file": "bab-08.txt"
 }

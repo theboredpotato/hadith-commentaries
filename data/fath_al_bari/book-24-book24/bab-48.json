@@ -2,7 +2,10 @@
   "book": "book24",
   "bab_number": 48,
   "bab_title": "٤٨ - باب الزكاة على الزوج والأيتام في الحجر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1466,
+    1467
+  ],
   "verified": false,
   "commentary_file": "bab-48.txt"
 }

@@ -2,7 +2,9 @@
   "book": "book24",
   "bab_number": 66,
   "bab_title": "٦٦ - باب في الركاز الخمس",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1499
+  ],
   "verified": false,
   "commentary_file": "bab-66.txt"
 }

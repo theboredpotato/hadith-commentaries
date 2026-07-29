@@ -2,7 +2,9 @@
   "book": "book15",
   "bab_number": 25,
   "bab_title": "٢٥ - باب إذا هبت الريح",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1034
+  ],
   "verified": false,
   "commentary_file": "bab-25.txt"
 }

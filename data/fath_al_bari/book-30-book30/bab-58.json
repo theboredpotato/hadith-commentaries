@@ -2,7 +2,9 @@
   "book": "book30",
   "bab_number": 58,
   "bab_title": "٥٨ - باب صوم يوم وإفطار يوم",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1978
+  ],
   "verified": true,
   "commentary_file": "bab-58.txt"
 }

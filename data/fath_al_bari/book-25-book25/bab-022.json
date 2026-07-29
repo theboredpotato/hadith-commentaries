@@ -2,7 +2,10 @@
   "book": "book25",
   "bab_number": 22,
   "bab_title": "٢٢ - باب الركوب والارتداف في الحج",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1543,
+    1544
+  ],
   "verified": false,
   "commentary_file": "bab-022.txt"
 }

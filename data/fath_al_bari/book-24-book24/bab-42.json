@@ -2,7 +2,9 @@
   "book": "book24",
   "bab_number": 42,
   "bab_title": "٤٢ - باب ليس فيما دون خمس ذود صدقة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1459
+  ],
   "verified": false,
   "commentary_file": "bab-42.txt"
 }

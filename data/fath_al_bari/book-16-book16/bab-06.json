@@ -2,7 +2,9 @@
   "book": "book16",
   "bab_number": 6,
   "bab_title": "٦ - باب قول النبي ﷺ يخوف الله عباده بالكسوف قال أبو موسى عن النبي ﷺ",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1048
+  ],
   "verified": false,
   "commentary_file": "bab-06.txt"
 }

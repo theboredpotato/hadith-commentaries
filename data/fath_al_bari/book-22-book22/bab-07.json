@@ -2,7 +2,9 @@
   "book": "book22",
   "bab_number": 7,
   "bab_title": "٧ - باب السهو في الفرض والتطوع",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1232
+  ],
   "verified": false,
   "commentary_file": "bab-07.txt"
 }

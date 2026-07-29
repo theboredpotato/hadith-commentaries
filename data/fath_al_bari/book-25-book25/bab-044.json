@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 44,
   "bab_title": "٤٤ - باب توريث دور مكة وبيعها وشرائها",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1588
+  ],
   "verified": false,
   "commentary_file": "bab-044.txt"
 }

@@ -2,7 +2,11 @@
   "book": "book25",
   "bab_number": 57,
   "bab_title": "٥٧ - باب الرمل في الحج والعمرة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1604,
+    1605,
+    1606
+  ],
   "verified": false,
   "commentary_file": "bab-057.txt"
 }

@@ -2,7 +2,11 @@
   "book": "book30",
   "bab_number": 5,
   "bab_title": "٥ - باب هل يقال رمضان أو شهر رمضان؟ ومن رأى كله واسعا",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1898,
+    1899,
+    1900
+  ],
   "verified": true,
   "commentary_file": "bab-05.txt"
 }

@@ -2,7 +2,9 @@
   "book": "book28",
   "bab_number": 5,
   "bab_title": "٥ - باب لا يشير المحرم إلى الصيد لكي يصطاده الحلال",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1824
+  ],
   "verified": true,
   "commentary_file": "bab-05.txt"
 }

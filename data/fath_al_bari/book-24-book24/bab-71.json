@@ -2,7 +2,9 @@
   "book": "book24",
   "bab_number": 71,
   "bab_title": "٧١ - باب صدقة الفطر على العبد وغيره من المسلمين",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1504
+  ],
   "verified": false,
   "commentary_file": "bab-71.txt"
 }

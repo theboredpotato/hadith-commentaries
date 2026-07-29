@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 51,
   "bab_title": "٥١ - باب إغلاق البيت، ويصلي في أي نواحي البيت شاء",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1598
+  ],
   "verified": false,
   "commentary_file": "bab-051.txt"
 }

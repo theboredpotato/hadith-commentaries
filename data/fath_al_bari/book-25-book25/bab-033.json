@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 33,
   "bab_title": "٣٣ - باب قول الله تعالى:",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1560
+  ],
   "verified": false,
   "commentary_file": "bab-033.txt"
 }

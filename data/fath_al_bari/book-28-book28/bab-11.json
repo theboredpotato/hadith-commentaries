@@ -2,7 +2,10 @@
   "book": "book28",
   "bab_number": 11,
   "bab_title": "١١ - باب الحجامة للمحرم",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1835,
+    1836
+  ],
   "verified": true,
   "commentary_file": "bab-11.txt"
 }

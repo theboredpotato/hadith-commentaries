@@ -2,7 +2,9 @@
   "book": "book22",
   "bab_number": 2,
   "bab_title": "٢ - باب إذا صلى خمسا",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1226
+  ],
   "verified": false,
   "commentary_file": "bab-02.txt"
 }

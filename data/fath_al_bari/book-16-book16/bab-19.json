@@ -2,7 +2,10 @@
   "book": "book16",
   "bab_number": 19,
   "bab_title": "١٩ - باب الجهر بالقراءة في الكسوف",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1065,
+    1066
+  ],
   "verified": false,
   "commentary_file": "bab-19.txt"
 }

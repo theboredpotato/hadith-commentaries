@@ -2,7 +2,9 @@
   "book": "book19",
   "bab_number": 37,
   "bab_title": "٣٧ - باب التطوع في البيت",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1187
+  ],
   "verified": false,
   "commentary_file": "bab-37.txt"
 }

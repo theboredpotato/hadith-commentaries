@@ -2,7 +2,10 @@
   "book": "book24",
   "bab_number": 40,
   "bab_title": "٤٠ - باب أخذ العناق في الصدقة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1456,
+    1457
+  ],
   "verified": false,
   "commentary_file": "bab-40.txt"
 }

@@ -2,7 +2,10 @@
   "book": "book23",
   "bab_number": 23,
   "bab_title": "٢٣ - باب الكفن بغير قميص",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1271,
+    1272
+  ],
   "verified": false,
   "commentary_file": "bab-23.txt"
 }

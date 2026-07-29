@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 65,
   "bab_title": "٦٥ - باب الكلام في الطواف",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1620
+  ],
   "verified": false,
   "commentary_file": "bab-065.txt"
 }

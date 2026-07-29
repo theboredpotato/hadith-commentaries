@@ -2,7 +2,9 @@
   "book": "book30",
   "bab_number": 41,
   "bab_title": "٤١ - باب الحائض تترك الصوم والصلاة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1951
+  ],
   "verified": true,
   "commentary_file": "bab-41.txt"
 }

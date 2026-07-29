@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 5,
   "bab_title": "٥ - باب فرض مواقيت الحج والعمرة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1522
+  ],
   "verified": false,
   "commentary_file": "bab-005.txt"
 }

@@ -2,7 +2,9 @@
   "book": "book29",
   "bab_number": 4,
   "bab_title": "٤ - باب لابتي المدينة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1873
+  ],
   "verified": true,
   "commentary_file": "bab-04.txt"
 }

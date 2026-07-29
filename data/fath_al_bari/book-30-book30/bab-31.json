@@ -2,7 +2,9 @@
   "book": "book30",
   "bab_number": 31,
   "bab_title": "٣١ - باب المجامع في رمضان هل يطعم أهله من الكفارة إذا كانوا محاويج",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1937
+  ],
   "verified": true,
   "commentary_file": "bab-31.txt"
 }

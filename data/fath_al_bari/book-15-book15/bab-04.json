@@ -2,7 +2,10 @@
   "book": "book15",
   "bab_number": 4,
   "bab_title": "٤ - باب تحويل الرداء في الاستسقاء",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1011,
+    1012
+  ],
   "verified": false,
   "commentary_file": "bab-04.txt"
 }

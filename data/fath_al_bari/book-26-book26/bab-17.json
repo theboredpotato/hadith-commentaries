@@ -2,7 +2,9 @@
   "book": "book26",
   "bab_number": 17,
   "bab_title": "١٧ - باب من أسرع ناقته إذا بلغ المدينة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1802
+  ],
   "verified": true,
   "commentary_file": "bab-17.txt"
 }

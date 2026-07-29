@@ -2,7 +2,9 @@
   "book": "book15",
   "bab_number": 14,
   "bab_title": "١٤ - باب الدعاء إذا كثر المطر حوالينا ولا علينا",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1021
+  ],
   "verified": false,
   "commentary_file": "bab-14.txt"
 }

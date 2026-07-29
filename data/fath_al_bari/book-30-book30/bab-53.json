@@ -2,7 +2,11 @@
   "book": "book30",
   "bab_number": 53,
   "bab_title": "٥٣ - باب ما يذكر من صوم النبي ﷺ وإفطاره",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1971,
+    1972,
+    1973
+  ],
   "verified": true,
   "commentary_file": "bab-53.txt"
 }

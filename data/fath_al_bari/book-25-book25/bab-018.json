@@ -2,7 +2,11 @@
   "book": "book25",
   "bab_number": 18,
   "bab_title": "١٨ - باب الطيب عند الإحرام وما يلبس إذا أراد أن يحرم، ويترجل ويدهن",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1537,
+    1538,
+    1539
+  ],
   "verified": false,
   "commentary_file": "bab-018.txt"
 }

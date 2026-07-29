@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 11,
   "bab_title": "١١ - باب مواضع الوضوء من الميت",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1256
+  ],
   "verified": false,
   "commentary_file": "bab-11.txt"
 }

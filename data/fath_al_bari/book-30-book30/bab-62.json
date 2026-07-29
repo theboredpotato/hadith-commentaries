@@ -2,7 +2,9 @@
   "book": "book30",
   "bab_number": 62,
   "bab_title": "٦٢ - باب الصوم من آخر الشهر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1983
+  ],
   "verified": true,
   "commentary_file": "bab-62.txt"
 }

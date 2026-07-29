@@ -2,7 +2,10 @@
   "book": "book21",
   "bab_number": 17,
   "bab_title": "١٧ - باب الخصر في الصلاة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1219,
+    1220
+  ],
   "verified": false,
   "commentary_file": "bab-17.txt"
 }

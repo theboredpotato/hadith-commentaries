@@ -2,7 +2,9 @@
   "book": "book15",
   "bab_number": 1,
   "bab_title": "١ - باب الاستسقاء وخروج النبي ﷺ في الاستسقاء",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1005
+  ],
   "verified": false,
   "commentary_file": "bab-01.txt"
 }

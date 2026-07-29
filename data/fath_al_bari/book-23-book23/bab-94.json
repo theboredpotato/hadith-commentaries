@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 94,
   "bab_title": "٩٤ - باب موت يوم الاثنين",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1387
+  ],
   "verified": false,
   "commentary_file": "bab-94.txt"
 }

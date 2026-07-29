@@ -2,7 +2,9 @@
   "book": "book15",
   "bab_number": 7,
   "bab_title": "٧ - باب الاستسقاء في خطبة الجمعة غير مستقبل القبلة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1014
+  ],
   "verified": false,
   "commentary_file": "bab-07.txt"
 }

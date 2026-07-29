@@ -2,7 +2,11 @@
   "book": "book15",
   "bab_number": 3,
   "bab_title": "٣ - باب سؤال الناس الإمام الاستسقاء إذا قحطوا",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1008,
+    1009,
+    1010
+  ],
   "verified": false,
   "commentary_file": "bab-03.txt"
 }

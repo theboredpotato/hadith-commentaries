@@ -2,7 +2,12 @@
   "book": "book29",
   "bab_number": 9,
   "bab_title": "٩ - باب لا يدخل الدجال المدينة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1879,
+    1880,
+    1881,
+    1882
+  ],
   "verified": true,
   "commentary_file": "bab-09.txt"
 }

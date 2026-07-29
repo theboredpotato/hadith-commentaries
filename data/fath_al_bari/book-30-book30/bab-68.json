@@ -2,7 +2,10 @@
   "book": "book30",
   "bab_number": 68,
   "bab_title": "٦٨ - باب صيام أيام التشريق",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1996,
+    1999
+  ],
   "verified": true,
   "commentary_file": "bab-68.txt"
 }

@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 117,
   "bab_title": "١١٧ - باب من نحر هديه بيده",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1712
+  ],
   "verified": false,
   "commentary_file": "bab-117.txt"
 }

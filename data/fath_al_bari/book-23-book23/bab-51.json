@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 51,
   "bab_title": "٥١ - باب السرعة بالجنازة. وقال أنس رضي الله عنه: أنتم مشيعون. وامش بين يديها وخلفها وعن يمينها وعن شمالها وقال غيره: قريبا منها",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1315
+  ],
   "verified": false,
   "commentary_file": "bab-51.txt"
 }

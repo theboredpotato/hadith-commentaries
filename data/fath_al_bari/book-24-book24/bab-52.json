@@ -2,7 +2,10 @@
   "book": "book24",
   "bab_number": 52,
   "bab_title": "٥٢ - باب من سأل الناس تكثرا",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1474,
+    1475
+  ],
   "verified": false,
   "commentary_file": "bab-52.txt"
 }

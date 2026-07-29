@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 6,
   "bab_title": "٦ - باب قول الله تعالى: ﴿وتزودوا فإن خير الزاد التقوى﴾",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1523
+  ],
   "verified": false,
   "commentary_file": "bab-006.txt"
 }

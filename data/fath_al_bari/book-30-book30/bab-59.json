@@ -2,7 +2,10 @@
   "book": "book30",
   "bab_number": 59,
   "bab_title": "٥٩ - باب صوم داود عليه السلام",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1979,
+    1980
+  ],
   "verified": true,
   "commentary_file": "bab-59.txt"
 }

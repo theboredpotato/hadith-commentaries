@@ -2,7 +2,9 @@
   "book": "book24",
   "bab_number": 77,
   "bab_title": "٧٧ - باب صدقة الفطر على الحر والمملوك",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1511
+  ],
   "verified": false,
   "commentary_file": "bab-77.txt"
 }

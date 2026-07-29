@@ -2,7 +2,10 @@
   "book": "book20",
   "bab_number": 2,
   "bab_title": "٢ - باب مسجد قباء",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1191,
+    1192
+  ],
   "verified": false,
   "commentary_file": "bab-02.txt"
 }

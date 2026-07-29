@@ -2,7 +2,10 @@
   "book": "book27",
   "bab_number": 8,
   "bab_title": "٨ - باب النسك شاة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1817,
+    1818
+  ],
   "verified": true,
   "commentary_file": "bab-08.txt"
 }

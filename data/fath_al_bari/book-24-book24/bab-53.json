@@ -2,7 +2,13 @@
   "book": "book24",
   "bab_number": 53,
   "bab_title": "٥٣ - باب قول الله تعالى: ﴿لا يسألون الناس إلحافا﴾ وكم الغنى وقول النبي ﷺ: ولا يجد غنى يغنيه",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1476,
+    1477,
+    1478,
+    1479,
+    1480
+  ],
   "verified": false,
   "commentary_file": "bab-53.txt"
 }

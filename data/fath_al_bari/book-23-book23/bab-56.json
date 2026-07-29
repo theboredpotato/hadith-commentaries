@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 56,
   "bab_title": "٥٦ - باب سنة الصلاة على الجنائز",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1322
+  ],
   "verified": false,
   "commentary_file": "bab-56.txt"
 }

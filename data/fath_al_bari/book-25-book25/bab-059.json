@@ -2,7 +2,10 @@
   "book": "book25",
   "bab_number": 59,
   "bab_title": "٥٩ - باب من لم يستلم إلا الركنين اليمانيين",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1608,
+    1609
+  ],
   "verified": false,
   "commentary_file": "bab-059.txt"
 }

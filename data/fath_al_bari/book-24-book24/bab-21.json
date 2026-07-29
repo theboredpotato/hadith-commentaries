@@ -2,7 +2,11 @@
   "book": "book24",
   "bab_number": 21,
   "bab_title": "٢١ - باب التحريض على الصدقة، والشفاعة فيها",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1431,
+    1432,
+    1433
+  ],
   "verified": false,
   "commentary_file": "bab-21.txt"
 }

@@ -2,7 +2,10 @@
   "book": "book26",
   "bab_number": 10,
   "bab_title": "١٠ - باب يفعل بالعمرة ما يفعل بالحج",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1789,
+    1790
+  ],
   "verified": true,
   "commentary_file": "bab-10.txt"
 }

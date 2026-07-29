@@ -2,7 +2,9 @@
   "book": "book28",
   "bab_number": 22,
   "bab_title": "٢٢ - باب الحج والنذور عن الميت والرجل يحج عن المرأة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1852
+  ],
   "verified": true,
   "commentary_file": "bab-22.txt"
 }

@@ -2,7 +2,9 @@
   "book": "book24",
   "bab_number": 41,
   "bab_title": "٤١ - باب لا تؤخذ كرائم أموال الناس في الصدقة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1458
+  ],
   "verified": false,
   "commentary_file": "bab-41.txt"
 }

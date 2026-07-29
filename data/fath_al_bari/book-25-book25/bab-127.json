@@ -2,7 +2,13 @@
   "book": "book25",
   "bab_number": 127,
   "bab_title": "١٢٧ - باب الحلق والتقصير عند الإحلال",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1726,
+    1727,
+    1728,
+    1729,
+    1730
+  ],
   "verified": false,
   "commentary_file": "bab-127.txt"
 }

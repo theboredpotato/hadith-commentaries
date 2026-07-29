@@ -2,7 +2,9 @@
   "book": "book26",
   "bab_number": 1,
   "bab_title": "١ - باب العمرة، وجوب العمرة وفضلها",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1773
+  ],
   "verified": true,
   "commentary_file": "bab-01.txt"
 }

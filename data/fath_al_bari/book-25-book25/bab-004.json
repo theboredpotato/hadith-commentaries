@@ -2,7 +2,11 @@
   "book": "book25",
   "bab_number": 4,
   "bab_title": "٤ - باب فضل الحج المبرور",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1519,
+    1520,
+    1521
+  ],
   "verified": false,
   "commentary_file": "bab-004.txt"
 }

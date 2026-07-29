@@ -2,7 +2,10 @@
   "book": "book18",
   "bab_number": 5,
   "bab_title": "٥ - باب يقصر إذا خرج من موضعه",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1089,
+    1090
+  ],
   "verified": false,
   "commentary_file": "bab-05.txt"
 }

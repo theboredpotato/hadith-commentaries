@@ -2,7 +2,9 @@
   "book": "book24",
   "bab_number": 51,
   "bab_title": "٥١ - باب من أعطاه الله شيئا من غير مسألة ولا إشراف نفس",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1473
+  ],
   "verified": false,
   "commentary_file": "bab-51.txt"
 }

@@ -2,7 +2,9 @@
   "book": "book24",
   "bab_number": 45,
   "bab_title": "٤٥ - باب ليس على المسلم في فرسه صدقة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1463
+  ],
   "verified": false,
   "commentary_file": "bab-45.txt"
 }

@@ -2,7 +2,12 @@
   "book": "book30",
   "bab_number": 48,
   "bab_title": "٤٨ - باب الوصال",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1961,
+    1962,
+    1963,
+    1964
+  ],
   "verified": true,
   "commentary_file": "bab-48.txt"
 }

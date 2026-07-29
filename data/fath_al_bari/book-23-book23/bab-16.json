@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 16,
   "bab_title": "١٦ - باب يجعل شعر المرأة ثلاثة قرون",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1262
+  ],
   "verified": false,
   "commentary_file": "bab-16.txt"
 }

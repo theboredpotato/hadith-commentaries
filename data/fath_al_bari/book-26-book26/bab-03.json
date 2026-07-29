@@ -2,7 +2,15 @@
   "book": "book26",
   "bab_number": 3,
   "bab_title": "٣ - باب كم اعتمر النبي ﷺ",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1775,
+    1776,
+    1777,
+    1778,
+    1779,
+    1780,
+    1781
+  ],
   "verified": true,
   "commentary_file": "bab-03.txt"
 }

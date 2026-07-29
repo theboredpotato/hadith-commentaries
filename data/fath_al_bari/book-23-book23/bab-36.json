@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 36,
   "bab_title": "٣٦ - باب رثاء النبي ﷺ سعد بن خولة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1295
+  ],
   "verified": false,
   "commentary_file": "bab-36.txt"
 }

@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 78,
   "bab_title": "٧٨ - باب اللحد والشق في القبر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1353
+  ],
   "verified": false,
   "commentary_file": "bab-78.txt"
 }

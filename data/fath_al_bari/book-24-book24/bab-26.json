@@ -2,7 +2,11 @@
   "book": "book24",
   "bab_number": 26,
   "bab_title": "٢٦ - باب أجر المرأة إذا تصدقت أو أطعمت من بيت زوجها غير مفسدة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1439,
+    1440,
+    1441
+  ],
   "verified": false,
   "commentary_file": "bab-26.txt"
 }

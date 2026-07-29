@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 90,
   "bab_title": "٩٠ - باب قصر الخطبة بعرفة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1663
+  ],
   "verified": false,
   "commentary_file": "bab-090.txt"
 }

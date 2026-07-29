@@ -2,7 +2,11 @@
   "book": "book30",
   "bab_number": 1,
   "bab_title": "١ - باب وجوب صوم رمضان، وقول الله تعالى: ﴿يا أيها الذين آمنوا كتب عليكم الصيام كما كتب على الذين من قبلكم لعلكم تتقون﴾",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1891,
+    1892,
+    1893
+  ],
   "verified": true,
   "commentary_file": "bab-01.txt"
 }

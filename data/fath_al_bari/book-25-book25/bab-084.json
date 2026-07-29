@@ -2,7 +2,11 @@
   "book": "book25",
   "bab_number": 84,
   "bab_title": "٨٤ - باب الصلاة بمنى",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1655,
+    1656,
+    1657
+  ],
   "verified": false,
   "commentary_file": "bab-084.txt"
 }

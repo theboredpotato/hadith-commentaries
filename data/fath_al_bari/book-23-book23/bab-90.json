@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 90,
   "bab_title": "٩٠ - باب كلام الميت على الجنازة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1380
+  ],
   "verified": false,
   "commentary_file": "bab-90.txt"
 }

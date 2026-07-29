@@ -2,7 +2,9 @@
   "book": "book19",
   "bab_number": 36,
   "bab_title": "٣٦ - باب صلاة النوافل جماعة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1185
+  ],
   "verified": false,
   "commentary_file": "bab-36.txt"
 }

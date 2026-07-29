@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 27,
   "bab_title": "٢٧ - باب التحميد والتسبيح والتكبير قبل الإهلال",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1551
+  ],
   "verified": false,
   "commentary_file": "bab-027.txt"
 }

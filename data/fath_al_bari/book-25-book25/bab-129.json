@@ -2,7 +2,10 @@
   "book": "book25",
   "bab_number": 129,
   "bab_title": "١٢٩ - باب الزيارة يوم النحر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1732,
+    1733
+  ],
   "verified": false,
   "commentary_file": "bab-129.txt"
 }

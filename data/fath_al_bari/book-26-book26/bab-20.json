@@ -2,7 +2,9 @@
   "book": "book26",
   "bab_number": 20,
   "bab_title": "٢٠ - باب المسافر إذا جد به السير يعجل إلى أهله",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1805
+  ],
   "verified": true,
   "commentary_file": "bab-20.txt"
 }

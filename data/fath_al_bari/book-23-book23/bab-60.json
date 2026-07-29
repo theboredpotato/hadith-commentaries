@@ -2,7 +2,11 @@
   "book": "book23",
   "bab_number": 60,
   "bab_title": "٦٠ - باب الصلاة على الجنائز بالمصلى والمسجد",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1327,
+    1328,
+    1329
+  ],
   "verified": false,
   "commentary_file": "bab-60.txt"
 }

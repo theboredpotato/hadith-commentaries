@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 82,
   "bab_title": "٨٢ - باب موعظة المحدث عند القبر، وقعود أصحابه حوله",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1362
+  ],
   "verified": false,
   "commentary_file": "bab-82.txt"
 }

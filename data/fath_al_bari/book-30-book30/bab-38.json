@@ -2,7 +2,9 @@
   "book": "book30",
   "bab_number": 38,
   "bab_title": "٣٨ - باب من أفطر في السفر ليراه الناس",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1948
+  ],
   "verified": true,
   "commentary_file": "bab-38.txt"
 }

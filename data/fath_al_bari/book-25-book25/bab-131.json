@@ -2,7 +2,11 @@
   "book": "book25",
   "bab_number": 131,
   "bab_title": "١٣١ - باب الفتيا على الدابة عند الجمرة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1736,
+    1737,
+    1738
+  ],
   "verified": false,
   "commentary_file": "bab-131.txt"
 }

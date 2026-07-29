@@ -2,7 +2,10 @@
   "book": "book25",
   "bab_number": 74,
   "bab_title": "٧٤ - باب المريض يطوف راكبا",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1632,
+    1633
+  ],
   "verified": false,
   "commentary_file": "bab-074.txt"
 }

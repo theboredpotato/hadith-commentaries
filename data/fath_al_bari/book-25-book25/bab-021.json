@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 21,
   "bab_title": "٢١ - باب ما لا يلبس المحرم من الثياب",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1542
+  ],
   "verified": false,
   "commentary_file": "bab-021.txt"
 }

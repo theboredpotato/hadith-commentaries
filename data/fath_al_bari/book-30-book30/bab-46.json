@@ -2,7 +2,9 @@
   "book": "book30",
   "bab_number": 46,
   "bab_title": "٤٦ - باب إذا أفطر في رمضان ثم طلعت الشمس",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1959
+  ],
   "verified": true,
   "commentary_file": "bab-46.txt"
 }

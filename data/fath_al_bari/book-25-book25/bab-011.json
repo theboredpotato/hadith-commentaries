@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 11,
   "bab_title": "١١ - باب مهل من كان دون المواقيت",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1529
+  ],
   "verified": false,
   "commentary_file": "bab-011.txt"
 }

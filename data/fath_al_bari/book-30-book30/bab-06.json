@@ -2,7 +2,9 @@
   "book": "book30",
   "bab_number": 6,
   "bab_title": "٦ - باب من صام رمضان إيمانا واحتسابا ونية",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1901
+  ],
   "verified": true,
   "commentary_file": "bab-06.txt"
 }

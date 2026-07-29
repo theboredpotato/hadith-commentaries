@@ -2,7 +2,9 @@
   "book": "book24",
   "bab_number": 65,
   "bab_title": "٦٥ - باب ما يستخرج من البحر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1498
+  ],
   "verified": false,
   "commentary_file": "bab-65.txt"
 }

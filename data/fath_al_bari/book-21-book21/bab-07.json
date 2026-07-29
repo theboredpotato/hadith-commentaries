@@ -2,7 +2,9 @@
   "book": "book21",
   "bab_number": 7,
   "bab_title": "٧ - باب إذا دعت الأم ولدها في الصلاة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1206
+  ],
   "verified": false,
   "commentary_file": "bab-07.txt"
 }

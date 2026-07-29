@@ -2,7 +2,10 @@
   "book": "book19",
   "bab_number": 31,
   "bab_title": "٣١ - باب صلاة الضحى في السفر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1175,
+    1176
+  ],
   "verified": false,
   "commentary_file": "bab-31.txt"
 }

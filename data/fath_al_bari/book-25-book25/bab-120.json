@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 120,
   "bab_title": "١٢٠ - باب لا يعطى الجزار من الهدي شيئا",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1716
+  ],
   "verified": false,
   "commentary_file": "bab-120.txt"
 }

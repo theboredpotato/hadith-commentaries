@@ -2,7 +2,9 @@
   "book": "book26",
   "bab_number": 14,
   "bab_title": "١٤ - باب القدوم بالغداة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1799
+  ],
   "verified": true,
   "commentary_file": "bab-14.txt"
 }

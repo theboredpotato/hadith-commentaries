@@ -2,7 +2,9 @@
   "book": "book30",
   "bab_number": 34,
   "bab_title": "٣٤ - باب إذا صام أياما من رمضان ثم سافر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1944
+  ],
   "verified": true,
   "commentary_file": "bab-34.txt"
 }

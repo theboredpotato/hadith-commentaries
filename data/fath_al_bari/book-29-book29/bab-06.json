@@ -2,7 +2,9 @@
   "book": "book29",
   "bab_number": 6,
   "bab_title": "٦ - باب الإيمان يأرز إلى المدينة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1876
+  ],
   "verified": true,
   "commentary_file": "bab-06.txt"
 }

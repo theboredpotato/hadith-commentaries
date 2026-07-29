@@ -2,7 +2,11 @@
   "book": "book25",
   "bab_number": 81,
   "bab_title": "٨١ - باب تقضي الحائض المناسك كلها إلا الطواف بالبيت وإذا سعى على غير وضوء بين الصفا والمروة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1650,
+    1651,
+    1652
+  ],
   "verified": false,
   "commentary_file": "bab-081.txt"
 }

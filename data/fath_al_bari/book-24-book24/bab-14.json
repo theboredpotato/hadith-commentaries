@@ -2,7 +2,9 @@
   "book": "book24",
   "bab_number": 14,
   "bab_title": "١٤ - باب إذا تصدق على غني وهو لا يعلم",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1421
+  ],
   "verified": false,
   "commentary_file": "bab-14.txt"
 }

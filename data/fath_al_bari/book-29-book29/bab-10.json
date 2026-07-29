@@ -2,7 +2,12 @@
   "book": "book29",
   "bab_number": 10,
   "bab_title": "١٠ - باب المدينة تنفي الخبث",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1883,
+    1884,
+    1885,
+    1886
+  ],
   "verified": true,
   "commentary_file": "bab-10.txt"
 }

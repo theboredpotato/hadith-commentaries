@@ -2,7 +2,9 @@
   "book": "book15",
   "bab_number": 13,
   "bab_title": "١٣ - باب إذا استشفع المشركون بالمسلمين عند القحط",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1020
+  ],
   "verified": false,
   "commentary_file": "bab-13.txt"
 }

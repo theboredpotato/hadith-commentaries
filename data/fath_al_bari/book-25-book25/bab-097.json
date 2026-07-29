@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 97,
   "bab_title": "٩٧ - باب من أذن وأقام لكل واحدة منهما",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1675
+  ],
   "verified": false,
   "commentary_file": "bab-097.txt"
 }

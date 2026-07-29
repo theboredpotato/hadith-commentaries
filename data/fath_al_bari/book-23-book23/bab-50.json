@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 50,
   "bab_title": "٥٠ - باب حمل الرجال الجنازة دون النساء",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1314
+  ],
   "verified": false,
   "commentary_file": "bab-50.txt"
 }

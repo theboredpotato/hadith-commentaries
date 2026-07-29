@@ -2,7 +2,9 @@
   "book": "book19",
   "bab_number": 26,
   "bab_title": "٢٦ - باب تعاهد ركعتي الفجر ومن سماهما تطوعا",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1169
+  ],
   "verified": false,
   "commentary_file": "bab-26.txt"
 }

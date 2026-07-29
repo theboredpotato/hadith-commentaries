@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 15,
   "bab_title": "١٥ - باب خروج النبي ﷺ على طريق الشجرة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1533
+  ],
   "verified": false,
   "commentary_file": "bab-015.txt"
 }

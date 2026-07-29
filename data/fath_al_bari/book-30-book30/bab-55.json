@@ -2,7 +2,9 @@
   "book": "book30",
   "bab_number": 55,
   "bab_title": "٥٥ - باب حق الجسم في الصوم",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1975
+  ],
   "verified": true,
   "commentary_file": "bab-55.txt"
 }

@@ -2,7 +2,11 @@
   "book": "book30",
   "bab_number": 67,
   "bab_title": "٦٧ - باب صوم يوم النحر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1993,
+    1994,
+    1995
+  ],
   "verified": true,
   "commentary_file": "bab-67.txt"
 }

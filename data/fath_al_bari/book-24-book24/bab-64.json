@@ -2,7 +2,9 @@
   "book": "book24",
   "bab_number": 64,
   "bab_title": "٦٤ - باب صلاة الإمام ودعائه لصاحب الصدقة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1497
+  ],
   "verified": false,
   "commentary_file": "bab-64.txt"
 }

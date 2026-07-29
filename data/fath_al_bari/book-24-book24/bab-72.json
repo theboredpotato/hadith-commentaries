@@ -2,7 +2,9 @@
   "book": "book24",
   "bab_number": 72,
   "bab_title": "٧٢ - باب صاع من شعير",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1505
+  ],
   "verified": false,
   "commentary_file": "bab-72.txt"
 }

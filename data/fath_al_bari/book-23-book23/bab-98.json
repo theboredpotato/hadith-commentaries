@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 98,
   "bab_title": "٩٨ - باب ذكر شرار الموتى",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1394
+  ],
   "verified": false,
   "commentary_file": "bab-98.txt"
 }

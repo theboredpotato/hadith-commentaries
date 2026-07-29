@@ -2,7 +2,10 @@
   "book": "book25",
   "bab_number": 147,
   "bab_title": "١٤٧ - باب المحصب",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1765,
+    1766
+  ],
   "verified": false,
   "commentary_file": "bab-147.txt"
 }

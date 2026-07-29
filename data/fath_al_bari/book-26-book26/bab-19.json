@@ -2,7 +2,9 @@
   "book": "book26",
   "bab_number": 19,
   "bab_title": "١٩ - باب السفر قطعة من العذاب",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1804
+  ],
   "verified": true,
   "commentary_file": "bab-19.txt"
 }

@@ -2,7 +2,9 @@
   "book": "book30",
   "bab_number": 47,
   "bab_title": "٤٧ - باب صوم الصبيان",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1960
+  ],
   "verified": true,
   "commentary_file": "bab-47.txt"
 }

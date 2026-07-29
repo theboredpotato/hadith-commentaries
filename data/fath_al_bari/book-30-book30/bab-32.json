@@ -2,7 +2,11 @@
   "book": "book30",
   "bab_number": 32,
   "bab_title": "٣٢ - باب الحجامة والقيء للصائم",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1938,
+    1939,
+    1940
+  ],
   "verified": true,
   "commentary_file": "bab-32.txt"
 }

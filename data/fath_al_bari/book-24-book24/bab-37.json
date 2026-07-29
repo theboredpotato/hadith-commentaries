@@ -2,7 +2,9 @@
   "book": "book24",
   "bab_number": 37,
   "bab_title": "٣٧ - باب من بلغت عنده صدقة بنت مخاض وليست عنده",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1453
+  ],
   "verified": false,
   "commentary_file": "bab-37.txt"
 }

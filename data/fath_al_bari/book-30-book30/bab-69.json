@@ -2,7 +2,16 @@
   "book": "book30",
   "bab_number": 69,
   "bab_title": "٦٩ - باب صيام يوم عاشوراء",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007
+  ],
   "verified": true,
   "commentary_file": "bab-69.txt"
 }

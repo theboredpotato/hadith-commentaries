@@ -2,7 +2,9 @@
   "book": "book24",
   "bab_number": 15,
   "bab_title": "١٥ - باب إذا تصدق على ابنه وهو لا يشعر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1422
+  ],
   "verified": false,
   "commentary_file": "bab-15.txt"
 }

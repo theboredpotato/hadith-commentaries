@@ -2,7 +2,10 @@
   "book": "book30",
   "bab_number": 16,
   "bab_title": "١٦ - باب قول الله تعالى:",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1916,
+    1917
+  ],
   "verified": true,
   "commentary_file": "bab-16.txt"
 }

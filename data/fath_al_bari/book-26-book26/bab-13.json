@@ -2,7 +2,9 @@
   "book": "book26",
   "bab_number": 13,
   "bab_title": "١٣ - باب استقبال الحاج القادمين، والثلاثة على الدابة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1798
+  ],
   "verified": true,
   "commentary_file": "bab-13.txt"
 }

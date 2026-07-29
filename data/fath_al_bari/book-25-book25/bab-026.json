@@ -2,7 +2,10 @@
   "book": "book25",
   "bab_number": 26,
   "bab_title": "٢٦ - باب التلبية",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1549,
+    1550
+  ],
   "verified": false,
   "commentary_file": "bab-026.txt"
 }

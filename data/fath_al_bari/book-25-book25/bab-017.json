@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 17,
   "bab_title": "١٧ - باب غسل الخلوق ثلاث مرات من الثياب",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1536
+  ],
   "verified": false,
   "commentary_file": "bab-017.txt"
 }

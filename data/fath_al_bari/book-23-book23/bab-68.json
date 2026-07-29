@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 68,
   "bab_title": "٦٨ - باب من أحب الدفن في الأرض المقدسة أو نحوها",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1339
+  ],
   "verified": false,
   "commentary_file": "bab-68.txt"
 }

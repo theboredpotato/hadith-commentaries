@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 5,
   "bab_title": "٥ - باب الإذن بالجنازة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1247
+  ],
   "verified": false,
   "commentary_file": "bab-05.txt"
 }

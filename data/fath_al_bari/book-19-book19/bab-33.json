@@ -2,7 +2,10 @@
   "book": "book19",
   "bab_number": 33,
   "bab_title": "٣٣ - باب صلاة الضحى في الحضر، قاله عتبان بن مالك، عن النبي ﷺ",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1178,
+    1179
+  ],
   "verified": false,
   "commentary_file": "bab-33.txt"
 }

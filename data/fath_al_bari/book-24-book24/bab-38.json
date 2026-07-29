@@ -2,7 +2,9 @@
   "book": "book24",
   "bab_number": 38,
   "bab_title": "٣٨ - باب زكاة الغنم",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1454
+  ],
   "verified": false,
   "commentary_file": "bab-38.txt"
 }

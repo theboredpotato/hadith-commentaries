@@ -2,7 +2,10 @@
   "book": "book25",
   "bab_number": 54,
   "bab_title": "٥٤ - باب من كبر في نواحي الكعبة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1601,
+    1602
+  ],
   "verified": false,
   "commentary_file": "bab-054.txt"
 }

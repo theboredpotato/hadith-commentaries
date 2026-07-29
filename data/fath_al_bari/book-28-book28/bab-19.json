@@ -2,7 +2,9 @@
   "book": "book28",
   "bab_number": 19,
   "bab_title": "١٩ - باب إذا أحرم جاهلا وعليه قميص",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1847
+  ],
   "verified": true,
   "commentary_file": "bab-19.txt"
 }

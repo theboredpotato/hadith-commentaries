@@ -2,7 +2,9 @@
   "book": "book16",
   "bab_number": 11,
   "bab_title": "١١ - باب من أحب العتاقة في كسوف الشمس",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1054
+  ],
   "verified": false,
   "commentary_file": "bab-11.txt"
 }

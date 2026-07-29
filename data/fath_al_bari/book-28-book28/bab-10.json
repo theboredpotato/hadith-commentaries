@@ -2,7 +2,9 @@
   "book": "book28",
   "bab_number": 10,
   "bab_title": "١٠ - باب لا يحل القتال بمكة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1834
+  ],
   "verified": true,
   "commentary_file": "bab-10.txt"
 }

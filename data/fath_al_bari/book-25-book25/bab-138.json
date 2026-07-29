@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 138,
   "bab_title": "١٣٨ - باب يكبر مع كل حصاة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1750
+  ],
   "verified": false,
   "commentary_file": "bab-138.txt"
 }

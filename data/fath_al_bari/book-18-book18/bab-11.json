@@ -2,7 +2,10 @@
   "book": "book18",
   "bab_number": 11,
   "bab_title": "١١ - باب من لم يتطوع في السفر دبر الصلاة وقبلها",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1101,
+    1102
+  ],
   "verified": false,
   "commentary_file": "bab-11.txt"
 }

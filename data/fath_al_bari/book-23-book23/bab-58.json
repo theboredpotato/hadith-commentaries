@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 58,
   "bab_title": "٥٨ - باب من انتظر حتى تدفن",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1325
+  ],
   "verified": false,
   "commentary_file": "bab-58.txt"
 }

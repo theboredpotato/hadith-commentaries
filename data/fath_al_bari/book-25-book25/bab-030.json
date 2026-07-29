@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 30,
   "bab_title": "٣٠ - باب التلبية إذا انحدر في الوادي",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1555
+  ],
   "verified": false,
   "commentary_file": "bab-030.txt"
 }

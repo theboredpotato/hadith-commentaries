@@ -2,7 +2,12 @@
   "book": "book28",
   "bab_number": 25,
   "bab_title": "٢٥ - باب حج الصبيان",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1856,
+    1857,
+    1858,
+    1859
+  ],
   "verified": true,
   "commentary_file": "bab-25.txt"
 }

@@ -2,7 +2,9 @@
   "book": "book17",
   "bab_number": 3,
   "bab_title": "٣ - باب سجدة ص",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1069
+  ],
   "verified": false,
   "commentary_file": "bab-03.txt"
 }

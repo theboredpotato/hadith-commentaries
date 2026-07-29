@@ -2,7 +2,10 @@
   "book": "book23",
   "bab_number": 72,
   "bab_title": "٧٢ - باب الصلاة على الشهيد",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1343,
+    1344
+  ],
   "verified": false,
   "commentary_file": "bab-72.txt"
 }

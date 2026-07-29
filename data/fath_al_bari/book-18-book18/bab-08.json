@@ -2,7 +2,9 @@
   "book": "book18",
   "bab_number": 8,
   "bab_title": "٨ - باب الإيماء على الدابة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1096
+  ],
   "verified": false,
   "commentary_file": "bab-08.txt"
 }

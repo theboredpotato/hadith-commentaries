@@ -2,7 +2,14 @@
   "book": "book23",
   "bab_number": 79,
   "bab_title": "٧٩ - باب إذا أسلم الصبي فمات هل يصلى عليه، وهل يعرض على الصبي الإسلام؟",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1354,
+    1355,
+    1356,
+    1357,
+    1358,
+    1359
+  ],
   "verified": false,
   "commentary_file": "bab-79.txt"
 }

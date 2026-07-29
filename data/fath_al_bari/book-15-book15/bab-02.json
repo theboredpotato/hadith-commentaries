@@ -2,7 +2,10 @@
   "book": "book15",
   "bab_number": 2,
   "bab_title": "٢ - باب دعاء النبي ﷺ (واجعلها عليهم سنين كسني يوسف)",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1006,
+    1007
+  ],
   "verified": false,
   "commentary_file": "bab-02.txt"
 }

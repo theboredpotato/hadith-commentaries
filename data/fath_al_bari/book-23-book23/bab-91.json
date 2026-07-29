@@ -2,7 +2,10 @@
   "book": "book23",
   "bab_number": 91,
   "bab_title": "٩١ - باب ما قيل في أولاد المسلمين",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1381,
+    1382
+  ],
   "verified": false,
   "commentary_file": "bab-91.txt"
 }

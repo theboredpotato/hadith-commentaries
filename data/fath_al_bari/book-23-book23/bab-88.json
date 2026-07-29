@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 88,
   "bab_title": "٨٨ - باب عذاب القبر من الغيبة والبول",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1378
+  ],
   "verified": false,
   "commentary_file": "bab-88.txt"
 }

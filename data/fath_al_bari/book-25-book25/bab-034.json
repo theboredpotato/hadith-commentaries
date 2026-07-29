@@ -2,7 +2,17 @@
   "book": "book25",
   "bab_number": 34,
   "bab_title": "٣٤ - باب التمتع والقران والإفراد بالحج وفسخ الحج لمن لم يكن معه هدي",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1561,
+    1562,
+    1563,
+    1564,
+    1565,
+    1566,
+    1567,
+    1568,
+    1569
+  ],
   "verified": false,
   "commentary_file": "bab-034.txt"
 }

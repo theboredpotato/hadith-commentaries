@@ -2,7 +2,9 @@
   "book": "book30",
   "bab_number": 54,
   "bab_title": "٥٤ - باب حق الضيف في الصوم",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1974
+  ],
   "verified": true,
   "commentary_file": "bab-54.txt"
 }

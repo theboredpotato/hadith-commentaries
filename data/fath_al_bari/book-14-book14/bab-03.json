@@ -2,7 +2,9 @@
   "book": "book14",
   "bab_number": 3,
   "bab_title": "٣ - باب إيقاظ النبي ﷺ أهله بالوتر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    997
+  ],
   "verified": false,
   "commentary_file": "bab-03.txt"
 }

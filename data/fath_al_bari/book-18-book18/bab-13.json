@@ -2,7 +2,11 @@
   "book": "book18",
   "bab_number": 13,
   "bab_title": "١٣ - باب الجمع في السفر بين المغرب والعشاء",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1106,
+    1107,
+    1108
+  ],
   "verified": false,
   "commentary_file": "bab-13.txt"
 }

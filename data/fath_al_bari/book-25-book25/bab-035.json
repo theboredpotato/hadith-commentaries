@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 35,
   "bab_title": "٣٥ - باب من لبى بالحج وسماه",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1570
+  ],
   "verified": false,
   "commentary_file": "bab-035.txt"
 }

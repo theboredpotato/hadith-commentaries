@@ -2,7 +2,9 @@
   "book": "book21",
   "bab_number": 3,
   "bab_title": "٣ - باب ما يجوز من التسبيح والحمد في الصلاة للرجال",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1201
+  ],
   "verified": false,
   "commentary_file": "bab-03.txt"
 }

@@ -2,7 +2,14 @@
   "book": "book23",
   "bab_number": 32,
   "bab_title": "٣٢ - باب قول النبي ﷺ يعذب الميت ببعض بكاء أهله عليه إذا كان النوح من سنته",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1284,
+    1285,
+    1286,
+    1288,
+    1289,
+    1290
+  ],
   "verified": false,
   "commentary_file": "bab-32.txt"
 }

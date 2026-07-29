@@ -2,7 +2,9 @@
   "book": "book16",
   "bab_number": 4,
   "bab_title": "٤ - باب خطبة الإمام في الكسوف وقالت عائشة، وأسماء خطب النبي ﷺ",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1046
+  ],
   "verified": false,
   "commentary_file": "bab-04.txt"
 }

@@ -2,7 +2,10 @@
   "book": "book25",
   "bab_number": 107,
   "bab_title": "١٠٧ - باب فتل القلائد للبدن والبقر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1697,
+    1698
+  ],
   "verified": false,
   "commentary_file": "bab-107.txt"
 }

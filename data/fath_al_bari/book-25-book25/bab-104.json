@@ -2,7 +2,10 @@
   "book": "book25",
   "bab_number": 104,
   "bab_title": "١٠٤ - باب من ساق البدن معه",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1691,
+    1692
+  ],
   "verified": false,
   "commentary_file": "bab-104.txt"
 }

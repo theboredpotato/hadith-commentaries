@@ -2,7 +2,9 @@
   "book": "book19",
   "bab_number": 19,
   "bab_title": "١٩ - باب ما يكره من ترك قيام الليل لمن كان يقومه",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1152
+  ],
   "verified": false,
   "commentary_file": "bab-19.txt"
 }

@@ -2,7 +2,13 @@
   "book": "book28",
   "bab_number": 26,
   "bab_title": "٢٦ - باب حج النساء",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1860,
+    1861,
+    1862,
+    1863,
+    1864
+  ],
   "verified": true,
   "commentary_file": "bab-26.txt"
 }

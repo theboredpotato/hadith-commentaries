@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 15,
   "bab_title": "١٥ - باب كيف الإشعار للميت؟",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1261
+  ],
   "verified": false,
   "commentary_file": "bab-15.txt"
 }

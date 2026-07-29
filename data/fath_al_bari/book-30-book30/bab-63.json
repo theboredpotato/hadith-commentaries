@@ -2,7 +2,11 @@
   "book": "book30",
   "bab_number": 63,
   "bab_title": "٦٣ - باب صوم يوم الجمعة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1984,
+    1985,
+    1986
+  ],
   "verified": true,
   "commentary_file": "bab-63.txt"
 }

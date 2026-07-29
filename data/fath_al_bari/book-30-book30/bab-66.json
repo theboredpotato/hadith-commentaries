@@ -2,7 +2,11 @@
   "book": "book30",
   "bab_number": 66,
   "bab_title": "٦٦ - باب صوم يوم الفطر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1990,
+    1991,
+    1992
+  ],
   "verified": true,
   "commentary_file": "bab-66.txt"
 }

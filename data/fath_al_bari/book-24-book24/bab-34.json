@@ -2,7 +2,9 @@
   "book": "book24",
   "bab_number": 34,
   "bab_title": "٣٤ - باب لا يجمع بين متفرق ولا يفرق بين مجتمع",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1450
+  ],
   "verified": false,
   "commentary_file": "bab-34.txt"
 }

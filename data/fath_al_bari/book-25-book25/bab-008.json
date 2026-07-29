@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 8,
   "bab_title": "٨ - باب ميقات أهل المدينة، ولا يهلوا قبل ذي الحليفة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1525
+  ],
   "verified": false,
   "commentary_file": "bab-008.txt"
 }

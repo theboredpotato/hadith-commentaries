@@ -2,7 +2,9 @@
   "book": "book24",
   "bab_number": 32,
   "bab_title": "٣٢ - باب زكاة الورق",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1447
+  ],
   "verified": false,
   "commentary_file": "bab-32.txt"
 }

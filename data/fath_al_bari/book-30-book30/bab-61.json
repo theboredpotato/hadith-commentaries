@@ -2,7 +2,9 @@
   "book": "book30",
   "bab_number": 61,
   "bab_title": "٦١ - باب من زار قوما فلم يفطر عندهم",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1982
+  ],
   "verified": true,
   "commentary_file": "bab-61.txt"
 }

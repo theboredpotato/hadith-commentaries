@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 62,
   "bab_title": "٦٢ - باب الصلاة على النفساء إذا ماتت في نفاسها",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1331
+  ],
   "verified": false,
   "commentary_file": "bab-62.txt"
 }

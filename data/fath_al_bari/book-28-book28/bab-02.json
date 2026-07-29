@@ -2,7 +2,9 @@
   "book": "book28",
   "bab_number": 2,
   "bab_title": "٢ - باب إذا صاد الحلال فأهدى للمحرم الصيد أكله",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1821
+  ],
   "verified": true,
   "commentary_file": "bab-02.txt"
 }

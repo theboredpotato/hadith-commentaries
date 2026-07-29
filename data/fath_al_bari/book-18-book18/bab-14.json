@@ -2,7 +2,10 @@
   "book": "book18",
   "bab_number": 14,
   "bab_title": "١٤ - باب هل يؤذن أو يقيم إذا جمع بين المغرب والعشاء؟",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1109,
+    1110
+  ],
   "verified": false,
   "commentary_file": "bab-14.txt"
 }

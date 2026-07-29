@@ -2,7 +2,9 @@
   "book": "book16",
   "bab_number": 8,
   "bab_title": "٨ - باب طول السجود في الكسوف",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1051
+  ],
   "verified": false,
   "commentary_file": "bab-08.txt"
 }

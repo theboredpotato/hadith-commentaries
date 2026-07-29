@@ -2,7 +2,10 @@
   "book": "book30",
   "bab_number": 65,
   "bab_title": "٦٥ - باب صوم يوم عرفة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1988,
+    1989
+  ],
   "verified": true,
   "commentary_file": "bab-65.txt"
 }

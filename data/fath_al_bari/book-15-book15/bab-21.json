@@ -2,7 +2,10 @@
   "book": "book15",
   "bab_number": 21,
   "bab_title": "٢١ - باب رفع الناس أيديهم مع الإمام في الاستسقاء",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1029,
+    1030
+  ],
   "verified": false,
   "commentary_file": "bab-21.txt"
 }

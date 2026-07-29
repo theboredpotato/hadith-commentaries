@@ -2,7 +2,10 @@
   "book": "book30",
   "bab_number": 17,
   "bab_title": "١٧ - باب قول النبي ﷺ: لا يمنعنكم من سحوركم أذان بلال",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1918,
+    1919
+  ],
   "verified": true,
   "commentary_file": "bab-17.txt"
 }

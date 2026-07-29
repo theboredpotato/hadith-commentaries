@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 71,
   "bab_title": "٧١ - باب من يدخل قبر المرأة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1342
+  ],
   "verified": false,
   "commentary_file": "bab-71.txt"
 }

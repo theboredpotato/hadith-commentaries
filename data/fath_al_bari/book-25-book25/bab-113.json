@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 113,
   "bab_title": "١١٣ - باب الجلال للبدن",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1707
+  ],
   "verified": false,
   "commentary_file": "bab-113.txt"
 }

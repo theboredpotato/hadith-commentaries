@@ -2,7 +2,12 @@
   "book": "book25",
   "bab_number": 73,
   "bab_title": "٧٣ - باب الطواف بعد الصبح والعصر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1628,
+    1629,
+    1630,
+    1631
+  ],
   "verified": false,
   "commentary_file": "bab-073.txt"
 }

@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 100,
   "bab_title": "١٠٠ - باب متى يدفع من جمع",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1684
+  ],
   "verified": false,
   "commentary_file": "bab-100.txt"
 }

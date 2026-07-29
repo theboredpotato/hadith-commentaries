@@ -2,7 +2,9 @@
   "book": "book27",
   "bab_number": 6,
   "bab_title": "٦ - باب قول الله تعالى: ﴿أو صدقة﴾ وهي إطعام ستة مساكين",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1815
+  ],
   "verified": true,
   "commentary_file": "bab-06.txt"
 }

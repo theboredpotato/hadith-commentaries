@@ -2,7 +2,9 @@
   "book": "book30",
   "bab_number": 12,
   "bab_title": "١٢ - باب شهرا عيد لا ينقصان",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1912
+  ],
   "verified": true,
   "commentary_file": "bab-12.txt"
 }

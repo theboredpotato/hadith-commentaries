@@ -2,7 +2,10 @@
   "book": "book23",
   "bab_number": 21,
   "bab_title": "٢١ - باب كيف يكفن المحرم؟",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1267,
+    1268
+  ],
   "verified": false,
   "commentary_file": "bab-21.txt"
 }

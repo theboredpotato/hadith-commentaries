@@ -2,7 +2,10 @@
   "book": "book25",
   "bab_number": 75,
   "bab_title": "٧٥ - باب سقاية الحاج",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1634,
+    1635
+  ],
   "verified": false,
   "commentary_file": "bab-075.txt"
 }

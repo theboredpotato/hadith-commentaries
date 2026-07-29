@@ -2,7 +2,10 @@
   "book": "book30",
   "bab_number": 4,
   "bab_title": "٤ - باب الريان للصائمين",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1896,
+    1897
+  ],
   "verified": true,
   "commentary_file": "bab-04.txt"
 }

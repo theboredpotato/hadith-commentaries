@@ -2,7 +2,9 @@
   "book": "book15",
   "bab_number": 12,
   "bab_title": "١٢ - باب إذا استشفعوا إلى الإمام ليستسقي لهم لم يردهم",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1019
+  ],
   "verified": false,
   "commentary_file": "bab-12.txt"
 }

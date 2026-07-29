@@ -2,7 +2,10 @@
   "book": "book30",
   "bab_number": 24,
   "bab_title": "٢٤ - باب القبلة للصائم",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1928,
+    1929
+  ],
   "verified": true,
   "commentary_file": "bab-24.txt"
 }

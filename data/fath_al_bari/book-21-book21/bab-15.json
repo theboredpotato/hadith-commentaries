@@ -2,7 +2,10 @@
   "book": "book21",
   "bab_number": 15,
   "bab_title": "١٥ - باب لا يرد السلام في الصلاة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1216,
+    1217
+  ],
   "verified": false,
   "commentary_file": "bab-15.txt"
 }

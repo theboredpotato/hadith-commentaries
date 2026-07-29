@@ -2,7 +2,9 @@
   "book": "book26",
   "bab_number": 9,
   "bab_title": "٩ - باب المعتمر إذا طاف طواف العمرة ثم خرج هل يجزئه من طواف الوداع؟",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1788
+  ],
   "verified": true,
   "commentary_file": "bab-09.txt"
 }

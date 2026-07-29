@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 31,
   "bab_title": "٣١ - باب زيارة القبور",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1283
+  ],
   "verified": false,
   "commentary_file": "bab-31.txt"
 }

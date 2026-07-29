@@ -2,7 +2,14 @@
   "book": "book23",
   "bab_number": 86,
   "bab_title": "٨٦ - باب ما جاء في عذاب القبر، وقوله تعالى:",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1369,
+    1370,
+    1371,
+    1372,
+    1373,
+    1374
+  ],
   "verified": false,
   "commentary_file": "bab-86.txt"
 }

@@ -2,7 +2,9 @@
   "book": "book24",
   "bab_number": 23,
   "bab_title": "٢٣ - باب الصدقة تكفر الخطيئة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1435
+  ],
   "verified": false,
   "commentary_file": "bab-23.txt"
 }

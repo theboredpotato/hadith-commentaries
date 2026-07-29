@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 66,
   "bab_title": "٦٦ - باب إذا رأى سيرا أو شيئا يكره في الطواف قطعه",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1621
+  ],
   "verified": false,
   "commentary_file": "bab-066.txt"
 }

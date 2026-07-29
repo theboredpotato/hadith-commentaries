@@ -2,7 +2,11 @@
   "book": "book19",
   "bab_number": 34,
   "bab_title": "٣٤ - باب الركعتين قبل الظهر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1180,
+    1181,
+    1182
+  ],
   "verified": false,
   "commentary_file": "bab-34.txt"
 }

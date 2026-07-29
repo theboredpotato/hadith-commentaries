@@ -2,7 +2,10 @@
   "book": "book24",
   "bab_number": 54,
   "bab_title": "٥٤ - باب خرص التمر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1481,
+    1482
+  ],
   "verified": false,
   "commentary_file": "bab-54.txt"
 }

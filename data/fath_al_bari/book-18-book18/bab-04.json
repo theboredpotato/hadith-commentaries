@@ -2,7 +2,11 @@
   "book": "book18",
   "bab_number": 4,
   "bab_title": "٤ - باب في كم يقصر الصلاة؟",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1086,
+    1087,
+    1088
+  ],
   "verified": false,
   "commentary_file": "bab-04.txt"
 }

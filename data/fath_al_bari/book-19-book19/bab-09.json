@@ -2,7 +2,10 @@
   "book": "book19",
   "bab_number": 9,
   "bab_title": "٩ - باب طول القيام في صلاة الليل",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1135,
+    1136
+  ],
   "verified": false,
   "commentary_file": "bab-09.txt"
 }

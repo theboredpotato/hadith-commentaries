@@ -2,7 +2,9 @@
   "book": "book19",
   "bab_number": 15,
   "bab_title": "١٥ - باب من نام أول الليل وأحيا آخره",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1146
+  ],
   "verified": false,
   "commentary_file": "bab-15.txt"
 }

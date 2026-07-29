@@ -2,7 +2,9 @@
   "book": "book15",
   "bab_number": 6,
   "bab_title": "٦ - باب الاستسقاء في المسجد الجامع",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1013
+  ],
   "verified": false,
   "commentary_file": "bab-06.txt"
 }

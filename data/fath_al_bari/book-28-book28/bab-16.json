@@ -2,7 +2,9 @@
   "book": "book28",
   "bab_number": 16,
   "bab_title": "١٦ - باب إذا لم يجد الإزار فليلبس السراويل",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1843
+  ],
   "verified": true,
   "commentary_file": "bab-16.txt"
 }

@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 9,
   "bab_title": "٩ - باب ما يستحب أن يغسل وترا",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1254
+  ],
   "verified": false,
   "commentary_file": "bab-09.txt"
 }

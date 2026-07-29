@@ -2,7 +2,9 @@
   "book": "book15",
   "bab_number": 24,
   "bab_title": "٢٤ - باب من تمطر في المطر حتى يتحادر على لحيته",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1033
+  ],
   "verified": false,
   "commentary_file": "bab-24.txt"
 }

@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 28,
   "bab_title": "٢٨ - باب من أهل حين استوت به راحلته قائمة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1552
+  ],
   "verified": false,
   "commentary_file": "bab-028.txt"
 }

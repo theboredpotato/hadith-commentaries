@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 40,
   "bab_title": "٤٠ - باب من أين يدخل مكة؟",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1575
+  ],
   "verified": false,
   "commentary_file": "bab-040.txt"
 }

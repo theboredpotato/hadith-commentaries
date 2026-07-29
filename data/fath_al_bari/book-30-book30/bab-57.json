@@ -2,7 +2,9 @@
   "book": "book30",
   "bab_number": 57,
   "bab_title": "٥٧ - باب حق الأهل في الصوم",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1977
+  ],
   "verified": true,
   "commentary_file": "bab-57.txt"
 }

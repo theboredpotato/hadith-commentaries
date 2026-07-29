@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 115,
   "bab_title": "١١٥ - باب ذبح الرجل البقر عن نسائه من غير أمرهن",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1709
+  ],
   "verified": false,
   "commentary_file": "bab-115.txt"
 }

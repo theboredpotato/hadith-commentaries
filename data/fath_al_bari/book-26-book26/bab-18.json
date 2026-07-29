@@ -2,7 +2,9 @@
   "book": "book26",
   "bab_number": 18,
   "bab_title": "١٨ - باب قول الله تعالى: ﴿وأتوا البيوت من أبوابها﴾",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1803
+  ],
   "verified": true,
   "commentary_file": "bab-18.txt"
 }

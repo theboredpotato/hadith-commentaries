@@ -2,7 +2,9 @@
   "book": "book30",
   "bab_number": 36,
   "bab_title": "٣٦ - باب قول النبي ﷺ لمن ظلل عليه واشتد الحر: ليس من البر الصوم في السفر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1946
+  ],
   "verified": true,
   "commentary_file": "bab-36.txt"
 }

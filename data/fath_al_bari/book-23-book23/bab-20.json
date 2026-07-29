@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 20,
   "bab_title": "٢٠ - باب الحنوط للميت",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1266
+  ],
   "verified": false,
   "commentary_file": "bab-20.txt"
 }

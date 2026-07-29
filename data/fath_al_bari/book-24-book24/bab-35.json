@@ -2,7 +2,9 @@
   "book": "book24",
   "bab_number": 35,
   "bab_title": "٣٥ - باب ما كان من خليطين فإنهما يتراجعان بينهما بالسوية",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1451
+  ],
   "verified": false,
   "commentary_file": "bab-35.txt"
 }

@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 69,
   "bab_title": "٦٩ - باب الدفن بالليل ودفن أبو بكر رضي الله عنه ليلا",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1340
+  ],
   "verified": false,
   "commentary_file": "bab-69.txt"
 }

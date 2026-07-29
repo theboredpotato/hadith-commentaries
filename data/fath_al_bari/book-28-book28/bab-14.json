@@ -2,7 +2,9 @@
   "book": "book28",
   "bab_number": 14,
   "bab_title": "١٤ - باب الاغتسال للمحرم",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1840
+  ],
   "verified": true,
   "commentary_file": "bab-14.txt"
 }

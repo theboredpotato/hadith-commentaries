@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 38,
   "bab_title": "٣٨ - باب الاغتسال عند دخول مكة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1573
+  ],
   "verified": false,
   "commentary_file": "bab-038.txt"
 }

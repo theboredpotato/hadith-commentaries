@@ -2,7 +2,9 @@
   "book": "book15",
   "bab_number": 16,
   "bab_title": "١٦ - باب الجهر بالقراءة في الاستسقاء",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1024
+  ],
   "verified": false,
   "commentary_file": "bab-16.txt"
 }

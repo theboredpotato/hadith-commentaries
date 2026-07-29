@@ -2,7 +2,9 @@
   "book": "book29",
   "bab_number": 3,
   "bab_title": "٣ - باب المدينة طابة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1872
+  ],
   "verified": true,
   "commentary_file": "bab-03.txt"
 }

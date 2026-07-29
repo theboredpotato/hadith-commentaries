@@ -2,7 +2,9 @@
   "book": "book30",
   "bab_number": 15,
   "bab_title": "١٥ - باب قول الله جل ذكره:",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1915
+  ],
   "verified": true,
   "commentary_file": "bab-15.txt"
 }

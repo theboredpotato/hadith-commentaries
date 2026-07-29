@@ -2,7 +2,9 @@
   "book": "book21",
   "bab_number": 1,
   "bab_title": "١ - باب استعانة اليد في الصلاة إذا كان من أمر الصلاة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1198
+  ],
   "verified": false,
   "commentary_file": "bab-01.txt"
 }

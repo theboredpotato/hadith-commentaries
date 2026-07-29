@@ -2,7 +2,9 @@
   "book": "book28",
   "bab_number": 17,
   "bab_title": "١٧ - باب لبس السلاح للمحرم",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1844
+  ],
   "verified": true,
   "commentary_file": "bab-17.txt"
 }

@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 53,
   "bab_title": "٥٣ - باب من صف صفين أو ثلاثة على الجنازة خلف الإمام",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1317
+  ],
   "verified": false,
   "commentary_file": "bab-53.txt"
 }

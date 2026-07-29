@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 26,
   "bab_title": "٢٦ - باب إذا لم يوجد إلا ثوب واحد",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1275
+  ],
   "verified": false,
   "commentary_file": "bab-26.txt"
 }

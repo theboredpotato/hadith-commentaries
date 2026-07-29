@@ -2,7 +2,9 @@
   "book": "book19",
   "bab_number": 11,
   "bab_title": "١١ - باب قيام النبي ﷺ بالليل من نومه وما نسخ من قيام الليل",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1141
+  ],
   "verified": false,
   "commentary_file": "bab-11.txt"
 }

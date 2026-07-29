@@ -2,7 +2,14 @@
   "book": "book25",
   "bab_number": 98,
   "bab_title": "٩٨ - باب من قدم ضعفة أهله بليل، فيقفون بالمزدلفة ويدعون ويقدم إذا غاب القمر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1676,
+    1677,
+    1678,
+    1679,
+    1680,
+    1681
+  ],
   "verified": false,
   "commentary_file": "bab-098.txt"
 }

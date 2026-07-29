@@ -2,7 +2,10 @@
   "book": "book25",
   "bab_number": 2,
   "bab_title": "٢ - باب قول الله تعالى: ﴿يأتوك رجالا وعلى كل ضامر يأتين من كل فج عميق * ليشهدوا منافع لهم﴾، ﴿فجاجا﴾ الطرق الواسعة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1514,
+    1515
+  ],
   "verified": false,
   "commentary_file": "bab-002.txt"
 }

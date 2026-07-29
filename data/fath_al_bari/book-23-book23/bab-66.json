@@ -2,7 +2,10 @@
   "book": "book23",
   "bab_number": 66,
   "bab_title": "٦٦ - باب الصلاة على القبر بعدما يدفن",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1336,
+    1337
+  ],
   "verified": false,
   "commentary_file": "bab-66.txt"
 }

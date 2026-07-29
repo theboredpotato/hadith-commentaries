@@ -2,7 +2,10 @@
   "book": "book21",
   "bab_number": 12,
   "bab_title": "١٢ - باب ما يجوز من البصاق والنفخ في الصلاة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1213,
+    1214
+  ],
   "verified": false,
   "commentary_file": "bab-12.txt"
 }

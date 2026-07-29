@@ -2,7 +2,10 @@
   "book": "book25",
   "bab_number": 99,
   "bab_title": "٩٩ - باب متى يصلي الفجر بجمع",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1682,
+    1683
+  ],
   "verified": false,
   "commentary_file": "bab-099.txt"
 }

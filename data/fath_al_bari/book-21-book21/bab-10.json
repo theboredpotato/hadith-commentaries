@@ -2,7 +2,10 @@
   "book": "book21",
   "bab_number": 10,
   "bab_title": "١٠ - باب ما يجوز من العمل في الصلاة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1209,
+    1210
+  ],
   "verified": false,
   "commentary_file": "bab-10.txt"
 }

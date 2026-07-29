@@ -2,7 +2,12 @@
   "book": "book25",
   "bab_number": 110,
   "bab_title": "١١٠ - باب تقليد الغنم",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1701,
+    1702,
+    1703,
+    1704
+  ],
   "verified": false,
   "commentary_file": "bab-110.txt"
 }

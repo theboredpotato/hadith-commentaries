@@ -2,7 +2,14 @@
   "book": "book19",
   "bab_number": 28,
   "bab_title": "٢٨ - باب ما جاء في التطوع مثنى مثنى",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1162,
+    1163,
+    1164,
+    1165,
+    1166,
+    1167
+  ],
   "verified": false,
   "commentary_file": "bab-28.txt"
 }

@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 23,
   "bab_title": "٢٣ - باب ما يلبس المحرم من الثياب والأردية والأزر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1545
+  ],
   "verified": false,
   "commentary_file": "bab-023.txt"
 }

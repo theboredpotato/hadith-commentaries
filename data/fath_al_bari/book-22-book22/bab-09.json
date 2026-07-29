@@ -2,7 +2,11 @@
   "book": "book22",
   "bab_number": 9,
   "bab_title": "٩ - باب الإشارة في الصلاة. قاله كريب عن أم سلمة رضي الله عنها عن النبي ﷺ",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1234,
+    1235,
+    1236
+  ],
   "verified": false,
   "commentary_file": "bab-09.txt"
 }

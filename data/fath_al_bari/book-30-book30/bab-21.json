@@ -2,7 +2,9 @@
   "book": "book30",
   "bab_number": 21,
   "bab_title": "٢١ - باب إذا نوى بالنهار صوما",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1924
+  ],
   "verified": true,
   "commentary_file": "bab-21.txt"
 }

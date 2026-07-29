@@ -2,7 +2,9 @@
   "book": "book17",
   "bab_number": 5,
   "bab_title": "٥ - باب سجود المسلمين مع المشركين، والمشرك نجس ليس له وضوء",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1071
+  ],
   "verified": false,
   "commentary_file": "bab-05.txt"
 }

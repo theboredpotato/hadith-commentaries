@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 141,
   "bab_title": "١٤١ - باب رفع اليدين عند جمرة الدنيا والوسطى",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1752
+  ],
   "verified": false,
   "commentary_file": "bab-141.txt"
 }

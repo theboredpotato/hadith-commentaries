@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 71,
   "bab_title": "٧١ - باب من صلى ركعتي الطواف خارجا من المسجد وصلى عمر رضي الله عنه خارجا من الحرم",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1626
+  ],
   "verified": false,
   "commentary_file": "bab-071.txt"
 }

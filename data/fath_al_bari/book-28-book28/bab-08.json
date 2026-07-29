@@ -2,7 +2,9 @@
   "book": "book28",
   "bab_number": 8,
   "bab_title": "٨ - باب لا يعضد شجر الحرم",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1832
+  ],
   "verified": true,
   "commentary_file": "bab-08.txt"
 }

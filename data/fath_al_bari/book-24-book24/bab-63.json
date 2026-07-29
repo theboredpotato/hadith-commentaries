@@ -2,7 +2,9 @@
   "book": "book24",
   "bab_number": 63,
   "bab_title": "٦٣ - باب أخذ الصدقة من الأغنياء وترد في الفقراء حيث كانوا",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1496
+  ],
   "verified": false,
   "commentary_file": "bab-63.txt"
 }

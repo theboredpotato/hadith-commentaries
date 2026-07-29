@@ -2,7 +2,11 @@
   "book": "book25",
   "bab_number": 3,
   "bab_title": "٣ - باب الحج على الرحل",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1516,
+    1517,
+    1518
+  ],
   "verified": false,
   "commentary_file": "bab-003.txt"
 }

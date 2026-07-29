@@ -2,7 +2,9 @@
   "book": "book15",
   "bab_number": 26,
   "bab_title": "٢٦ - باب قول النبي ﷺ نصرت بالصبا",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1035
+  ],
   "verified": false,
   "commentary_file": "bab-26.txt"
 }

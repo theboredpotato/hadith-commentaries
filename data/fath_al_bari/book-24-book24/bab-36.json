@@ -2,7 +2,9 @@
   "book": "book24",
   "bab_number": 36,
   "bab_title": "٣٦ - باب زكاة الإبل",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1452
+  ],
   "verified": false,
   "commentary_file": "bab-36.txt"
 }

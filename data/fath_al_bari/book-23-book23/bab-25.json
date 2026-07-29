@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 25,
   "bab_title": "٢٥ - باب الكفن من جميع المال",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1274
+  ],
   "verified": false,
   "commentary_file": "bab-25.txt"
 }

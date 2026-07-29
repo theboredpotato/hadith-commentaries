@@ -2,7 +2,10 @@
   "book": "book25",
   "bab_number": 83,
   "bab_title": "٨٣ - باب أين يصلي الظهر يوم التروية",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1653,
+    1654
+  ],
   "verified": false,
   "commentary_file": "bab-083.txt"
 }

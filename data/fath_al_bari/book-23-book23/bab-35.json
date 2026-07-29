@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 35,
   "bab_title": "٣٥ - باب ليس منا من شق الجيوب",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1294
+  ],
   "verified": false,
   "commentary_file": "bab-35.txt"
 }

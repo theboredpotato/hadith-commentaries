@@ -2,7 +2,9 @@
   "book": "book14",
   "bab_number": 6,
   "bab_title": "٦ - باب الوتر في السفر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1000
+  ],
   "verified": false,
   "commentary_file": "bab-06.txt"
 }

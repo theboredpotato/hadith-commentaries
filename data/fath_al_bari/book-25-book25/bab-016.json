@@ -2,7 +2,10 @@
   "book": "book25",
   "bab_number": 16,
   "bab_title": "١٦ - باب قول النبي ﷺ: العقيق واد مبارك",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1534,
+    1535
+  ],
   "verified": false,
   "commentary_file": "bab-016.txt"
 }

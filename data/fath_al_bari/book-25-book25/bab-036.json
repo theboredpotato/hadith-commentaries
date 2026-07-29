@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 36,
   "bab_title": "٣٦ - باب التمتع على عهد رسول الله ﷺ",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1571
+  ],
   "verified": false,
   "commentary_file": "bab-036.txt"
 }

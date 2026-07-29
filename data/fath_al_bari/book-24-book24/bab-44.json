@@ -2,7 +2,10 @@
   "book": "book24",
   "bab_number": 44,
   "bab_title": "٤٤ - باب الزكاة على الأقارب",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1461,
+    1462
+  ],
   "verified": false,
   "commentary_file": "bab-44.txt"
 }

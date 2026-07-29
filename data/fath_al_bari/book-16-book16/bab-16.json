@@ -2,7 +2,9 @@
   "book": "book16",
   "bab_number": 16,
   "bab_title": "١٦ - باب قول الإمام في خطبة الكسوف: أما بعد",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1061
+  ],
   "verified": false,
   "commentary_file": "bab-16.txt"
 }

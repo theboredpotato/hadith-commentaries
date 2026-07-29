@@ -2,7 +2,9 @@
   "book": "book24",
   "bab_number": 47,
   "bab_title": "٤٧ - باب الصدقة على اليتامى",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1465
+  ],
   "verified": false,
   "commentary_file": "bab-47.txt"
 }

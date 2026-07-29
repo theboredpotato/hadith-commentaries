@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 29,
   "bab_title": "٢٩ - باب اتباع النساء الجنائز",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1278
+  ],
   "verified": false,
   "commentary_file": "bab-29.txt"
 }

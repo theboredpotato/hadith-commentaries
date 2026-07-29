@@ -2,7 +2,9 @@
   "book": "book20",
   "bab_number": 4,
   "bab_title": "٤ - باب إتيان مسجد قباء ماشيا وراكبا",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1194
+  ],
   "verified": false,
   "commentary_file": "bab-04.txt"
 }

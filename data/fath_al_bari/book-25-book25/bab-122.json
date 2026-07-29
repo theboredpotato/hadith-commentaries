@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 122,
   "bab_title": "١٢٢ - باب يتصدق بجلال البدن",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1718
+  ],
   "verified": false,
   "commentary_file": "bab-122.txt"
 }

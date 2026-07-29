@@ -2,7 +2,9 @@
   "book": "book24",
   "bab_number": 31,
   "bab_title": "٣١ - باب قدر كم يعطى من الزكاة والصدقة، ومن أعطى شاة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1446
+  ],
   "verified": false,
   "commentary_file": "bab-31.txt"
 }

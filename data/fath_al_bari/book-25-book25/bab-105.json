@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 105,
   "bab_title": "١٠٥ - باب من اشترى الهدي من الطريق",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1693
+  ],
   "verified": false,
   "commentary_file": "bab-105.txt"
 }

@@ -2,7 +2,10 @@
   "book": "book19",
   "bab_number": 4,
   "bab_title": "٤ - باب ترك القيام للمريض",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1124,
+    1125
+  ],
   "verified": false,
   "commentary_file": "bab-04.txt"
 }

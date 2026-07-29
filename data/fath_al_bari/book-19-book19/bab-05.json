@@ -2,7 +2,12 @@
   "book": "book19",
   "bab_number": 5,
   "bab_title": "٥ - باب تحريض النبي ﷺ على صلاة الليل والنوافل من غير إيجاب، وطرق النبي ﷺ فاطمة وعليا عليهما السلام ليلة للصلاة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1126,
+    1127,
+    1128,
+    1129
+  ],
   "verified": false,
   "commentary_file": "bab-05.txt"
 }

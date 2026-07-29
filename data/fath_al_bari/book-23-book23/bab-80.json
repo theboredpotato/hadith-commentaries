@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 80,
   "bab_title": "٨٠ - باب إذا قال المشرك عند الموت: لا إله إلا الله",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1360
+  ],
   "verified": false,
   "commentary_file": "bab-80.txt"
 }

@@ -2,7 +2,10 @@
   "book": "book16",
   "bab_number": 17,
   "bab_title": "١٧ - باب الصلاة في كسوف القمر",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1062,
+    1063
+  ],
   "verified": false,
   "commentary_file": "bab-17.txt"
 }

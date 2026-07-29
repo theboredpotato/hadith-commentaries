@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 58,
   "bab_title": "٥٨ - باب استلام الركن بالمحجن",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1607
+  ],
   "verified": false,
   "commentary_file": "bab-058.txt"
 }

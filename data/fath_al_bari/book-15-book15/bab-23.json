@@ -2,7 +2,9 @@
   "book": "book15",
   "bab_number": 23,
   "bab_title": "٢٣ - باب ما يقال إذا أمطرت وقال ابن عباس: ﴿كصيب﴾ المطر، وقال غيره: صاب وأصاب يصوب",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1032
+  ],
   "verified": false,
   "commentary_file": "bab-23.txt"
 }

@@ -2,7 +2,9 @@
   "book": "book30",
   "bab_number": 37,
   "bab_title": "٣٧ - باب لم يعب أصحاب النبي ﷺ بعضهم بعضا في الصوم والإفطار",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1947
+  ],
   "verified": true,
   "commentary_file": "bab-37.txt"
 }

@@ -2,7 +2,12 @@
   "book": "book25",
   "bab_number": 132,
   "bab_title": "١٣٢ - باب الخطبة أيام منى",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1739,
+    1740,
+    1741,
+    1742
+  ],
   "verified": false,
   "commentary_file": "bab-132.txt"
 }

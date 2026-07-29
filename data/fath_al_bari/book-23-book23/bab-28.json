@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 28,
   "bab_title": "٢٨ - باب من استعد الكفن في زمن النبي ﷺ فلم ينكر عليه",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1277
+  ],
   "verified": false,
   "commentary_file": "bab-28.txt"
 }

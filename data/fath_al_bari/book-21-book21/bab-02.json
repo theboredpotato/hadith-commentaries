@@ -2,7 +2,10 @@
   "book": "book21",
   "bab_number": 2,
   "bab_title": "٢ - باب ما ينهى من الكلام في الصلاة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1199,
+    1200
+  ],
   "verified": false,
   "commentary_file": "bab-02.txt"
 }

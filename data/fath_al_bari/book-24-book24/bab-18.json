@@ -2,7 +2,12 @@
   "book": "book24",
   "bab_number": 18,
   "bab_title": "١٨ - باب لا صدقة إلا عن ظهر غنى",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1426,
+    1427,
+    1428,
+    1429
+  ],
   "verified": false,
   "commentary_file": "bab-18.txt"
 }

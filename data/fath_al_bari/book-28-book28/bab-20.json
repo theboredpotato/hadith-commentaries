@@ -2,7 +2,10 @@
   "book": "book28",
   "bab_number": 20,
   "bab_title": "٢٠ - باب المحرم يموت بعرفة ولم يأمر النبي ﷺ أن يؤدى عنه بقية الحج",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1849,
+    1850
+  ],
   "verified": true,
   "commentary_file": "bab-20.txt"
 }

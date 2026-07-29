@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 78,
   "bab_title": "٧٨ - باب الطواف على وضوء",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1641
+  ],
   "verified": false,
   "commentary_file": "bab-078.txt"
 }

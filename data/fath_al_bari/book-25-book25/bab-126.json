@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 126,
   "bab_title": "١٢٦ - باب من لبد رأسه عند الإحرام وحلق",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1725
+  ],
   "verified": false,
   "commentary_file": "bab-126.txt"
 }

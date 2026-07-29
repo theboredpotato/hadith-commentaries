@@ -2,7 +2,10 @@
   "book": "book16",
   "bab_number": 13,
   "bab_title": "١٣ - باب لا تنكسف الشمس لموت أحد ولا لحياته",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1057,
+    1058
+  ],
   "verified": false,
   "commentary_file": "bab-13.txt"
 }

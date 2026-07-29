@@ -2,7 +2,11 @@
   "book": "book25",
   "bab_number": 101,
   "bab_title": "١٠١ - باب التلبية والتكبير غداة النحر حين يرمي الجمرة، والارتداف في السير",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1685,
+    1686,
+    1687
+  ],
   "verified": false,
   "commentary_file": "bab-101.txt"
 }

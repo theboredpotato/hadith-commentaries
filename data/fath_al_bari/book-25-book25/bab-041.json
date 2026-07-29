@@ -2,7 +2,14 @@
   "book": "book25",
   "bab_number": 41,
   "bab_title": "٤١ - باب من أين يخرج من مكة؟",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1576,
+    1577,
+    1578,
+    1579,
+    1580,
+    1581
+  ],
   "verified": false,
   "commentary_file": "bab-041.txt"
 }

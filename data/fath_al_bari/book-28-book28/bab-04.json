@@ -2,7 +2,9 @@
   "book": "book28",
   "bab_number": 4,
   "bab_title": "٤ - باب لا يعين المحرم الحلال في قتل الصيد",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1823
+  ],
   "verified": true,
   "commentary_file": "bab-04.txt"
 }

@@ -2,7 +2,12 @@
   "book": "book16",
   "bab_number": 1,
   "bab_title": "١ - باب الصلاة في كسوف الشمس",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1040,
+    1041,
+    1042,
+    1043
+  ],
   "verified": false,
   "commentary_file": "bab-01.txt"
 }

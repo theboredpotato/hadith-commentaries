@@ -2,7 +2,9 @@
   "book": "book30",
   "bab_number": 51,
   "bab_title": "٥١ - باب من أقسم على أخيه ليفطر في التطوع ولم ير عليه قضاء إذا كان أوفق له",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1968
+  ],
   "verified": true,
   "commentary_file": "bab-51.txt"
 }

@@ -2,7 +2,10 @@
   "book": "book30",
   "bab_number": 43,
   "bab_title": "٤٣ - باب متى فطر الصائم؟",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1954,
+    1955
+  ],
   "verified": true,
   "commentary_file": "bab-43.txt"
 }

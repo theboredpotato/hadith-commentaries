@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 7,
   "bab_title": "٧ - باب مهل أهل مكة للحج والعمرة",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1524
+  ],
   "verified": false,
   "commentary_file": "bab-007.txt"
 }

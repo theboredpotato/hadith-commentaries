@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 14,
   "bab_title": "١٤ - باب",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1532
+  ],
   "verified": false,
   "commentary_file": "bab-014.txt"
 }

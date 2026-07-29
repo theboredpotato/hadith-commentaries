@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 61,
   "bab_title": "٦١ - باب ما يكره من اتخاذ المساجد على القبور",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1330
+  ],
   "verified": false,
   "commentary_file": "bab-61.txt"
 }

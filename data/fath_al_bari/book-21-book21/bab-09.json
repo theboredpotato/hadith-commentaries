@@ -2,7 +2,9 @@
   "book": "book21",
   "bab_number": 9,
   "bab_title": "٩ - باب بسط الثوب في الصلاة للسجود",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1208
+  ],
   "verified": false,
   "commentary_file": "bab-09.txt"
 }

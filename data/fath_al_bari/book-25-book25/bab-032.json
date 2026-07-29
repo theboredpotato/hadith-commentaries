@@ -2,7 +2,11 @@
   "book": "book25",
   "bab_number": 32,
   "bab_title": "٣٢ - باب من أهل في زمن النبي ﷺ كإهلال النبي ﷺ",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1557,
+    1558,
+    1559
+  ],
   "verified": false,
   "commentary_file": "bab-032.txt"
 }

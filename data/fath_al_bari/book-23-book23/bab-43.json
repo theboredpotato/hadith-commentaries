@@ -2,7 +2,9 @@
   "book": "book23",
   "bab_number": 43,
   "bab_title": "٤٣ - باب قول النبي ﷺ: إنا بك لمحزونون",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1303
+  ],
   "verified": false,
   "commentary_file": "bab-43.txt"
 }

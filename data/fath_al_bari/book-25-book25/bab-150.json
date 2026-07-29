@@ -2,7 +2,9 @@
   "book": "book25",
   "bab_number": 150,
   "bab_title": "١٥٠ - باب التجارة أيام الموسم والبيع في أسواق الجاهلية",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1770
+  ],
   "verified": false,
   "commentary_file": "bab-150.txt"
 }

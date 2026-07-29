@@ -2,7 +2,9 @@
   "book": "book22",
   "bab_number": 3,
   "bab_title": "٣ - باب إذا سلم في ركعتين أو في ثلاث فسجد سجدتين مثل سجود الصلاة أو أطول",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1227
+  ],
   "verified": false,
   "commentary_file": "bab-03.txt"
 }

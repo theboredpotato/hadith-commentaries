@@ -2,7 +2,12 @@
   "book": "book25",
   "bab_number": 125,
   "bab_title": "١٢٥ - باب الذبح قبل الحلق",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1721,
+    1722,
+    1723,
+    1724
+  ],
   "verified": false,
   "commentary_file": "bab-125.txt"
 }

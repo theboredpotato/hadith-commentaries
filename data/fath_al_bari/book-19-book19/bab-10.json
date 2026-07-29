@@ -2,7 +2,12 @@
   "book": "book19",
   "bab_number": 10,
   "bab_title": "١٠ - باب كيف صلاة النبي ﷺ؟",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1137,
+    1138,
+    1139,
+    1140
+  ],
   "verified": false,
   "commentary_file": "bab-10.txt"
 }

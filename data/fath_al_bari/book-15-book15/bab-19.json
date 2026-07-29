@@ -2,7 +2,9 @@
   "book": "book15",
   "bab_number": 19,
   "bab_title": "١٩ - باب الاستسقاء في المصلى",
-  "hadith_numbers": [],
+  "hadith_numbers": [
+    1027
+  ],
   "verified": false,
   "commentary_file": "bab-19.txt"
 }
