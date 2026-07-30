@@ -81,16 +81,26 @@ FALLBACK_PATTERN = re.compile(r"(?:^|\n\n)\s*([٠-٩]+)(?:\s*[،و]\s*([٠-٩]+)
 
 
 def extract_verb_matches(body: str):
-    seen = []
+    """Returns (accepted, suspicious) — accepted numbers look like real
+    hadith numbers; suspicious ones matched the verb pattern but were
+    wildly out of place relative to the numbers immediately around them
+    within the SAME bab body (almost always a garbled/truncated digit in
+    the source, e.g. '2166' printed as '2', or '2366' printed as '3266')."""
+    raw_matches = []
     for m in VERB_PATTERN.finditer(body):
         n1 = ar_to_int(m.group(1))
-        if n1 not in seen:
-            seen.append(n1)
+        raw_matches.append(n1)
         if m.group(2):
-            n2 = ar_to_int(m.group(2))
-            if n2 not in seen:
-                seen.append(n2)
-    return seen
+            raw_matches.append(ar_to_int(m.group(2)))
+
+    accepted, suspicious = [], []
+    for i, n in enumerate(raw_matches):
+        neighbors = raw_matches[max(0, i - 2):i] + raw_matches[i + 1:i + 3]
+        if neighbors and all(abs(n - nb) > 40 for nb in neighbors):
+            suspicious.append(n)
+        elif n not in accepted:
+            accepted.append(n)
+    return accepted, suspicious
 
 
 def extract_fallback_matches(body: str, plausible_min: int):
